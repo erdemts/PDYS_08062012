@@ -1,0 +1,93 @@
+﻿<Window x:Class="PDYS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:PDYS.UserControls"
+        xmlns:vm="clr-namespace:PDYS.ViewModels"
+        xmlns:vw="clr-namespace:PDYS.Views"
+        Title="{Binding Title}"
+        MinWidth="1000"
+        MinHeight="700"
+        DataContext="{StaticResource AppDataModel}"
+        dx:ThemeManager.ThemeName="DeepBlue"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        mc:Ignorable="d">
+    <!--  SizeToContent= "WidthAndHeight"  -->
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <!--  Header View  -->
+        <uc:HeaderControl Grid.Row="0"
+                          Grid.ColumnSpan="2"
+                          DataContext="{Binding}" />
+        <!--  Menu View  -->
+        <vw:MenuView Grid.Row="1"
+                     Grid.Column="0"
+                     DataContext="{Binding Menu}"
+                     Padding="5" />
+
+
+        <Grid Grid.Row="1"
+              Grid.Column="1"
+              Margin="0,5,5,5">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <!--  Content Header  -->
+
+
+            <Border Grid.Row="0"
+                    Margin="0,0,0,3"
+                    BorderBrush="{DynamicResource NormalBorderBrush}"
+                    BorderThickness="1,1,1,1">
+
+                <TextBlock Grid.Row="0"
+                           HorizontalAlignment="Stretch"
+                           VerticalAlignment="Center"
+                           FontSize="14"
+                           FontWeight="Bold"
+                           Foreground="{StaticResource HeaderFontColor}"
+                           Padding="5,3,10,3"
+                           Text="{Binding SelectedMenuTitle}">
+                    <TextBlock.Background>
+                        <SolidColorBrush Color="{DynamicResource WhiteColor}" />
+                    </TextBlock.Background>
+                </TextBlock>
+            </Border>
+
+
+
+            <!--  Content Area  -->
+            <Border Grid.Row="1"
+                    BorderBrush="{DynamicResource NormalBorderBrush}"
+                    BorderThickness="1,1,1,1"
+                    CornerRadius="3"
+                    Padding="5">
+                <!--  Content  -->
+                <Grid>
+                    <ContentControl Content="{Binding MenuContent}" Visibility="{Binding MenuContent, Mode=TwoWay, Converter={StaticResource VisibilityConverter}}" />
+
+                    <uc:LoadingAnimation HorizontalAlignment="Center"
+                                         VerticalAlignment="Center"
+                                         Visibility="{Binding MenuContent,
+                                                              Mode=TwoWay,
+                                                              Converter={StaticResource NotVisibilityConverter}}" />
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

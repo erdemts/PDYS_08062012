@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="PDYS.UserControls.PagerControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             
+             d:DesignWidth="400"
+             mc:Ignorable="d">
+    <Grid>
+        <Border BorderBrush="{DynamicResource NormalBorderBrush}"
+                BorderThickness="1,1,1,1"
+                CornerRadius="3">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <ComboBox Grid.Column="0"
+                          Width="50"
+                          Margin="5,3,5,3"
+                          IsEditable="False"
+                          ItemsSource="{Binding ListPageSize}"
+                          SelectedItem="{Binding SelectedPageSize,
+                                                 Mode=TwoWay,
+                                                 ValidatesOnDataErrors=True}" />
+
+                <TextBlock Grid.Column="1"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center">
+                    <TextBlock.Text>
+                        <MultiBinding StringFormat="Sayfa : {0}">
+                            <Binding Path="PageNumber" />
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+
+                <StackPanel Grid.Column="2" Orientation="Horizontal">
+                    <Button Margin="5,3,5,3"
+                            Command="{Binding PrevPageCommand}"
+                            Content="&lt;&lt; Önceki"
+                            IsEnabled="{Binding HasPrevRecord}" />
+                    <Button Margin="5,3,5,3"
+                            Command="{Binding NextPageCommand}"
+                            Content="Sonraki &gt;&gt;"
+                            IsEnabled="{Binding HasNextRecord}" />
+                </StackPanel>
+
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

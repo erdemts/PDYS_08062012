@@ -1,0 +1,44 @@
+C:\Users\KENAN\Desktop\MvvmValidation\MvvmValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\MvvmValidation\MvvmValidation\obj\Debug\Mvvm.Validation.Properties.Resources.resources
+C:\Users\KENAN\Desktop\MvvmValidation\MvvmValidation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\KENAN\Desktop\MvvmValidation\MvvmValidation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.Properties.Resources.resources
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.pdb
+D:\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.dll
+D:\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.pdb
+D:\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.dll
+D:\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.pdb
+D:\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.Properties.Resources.resources
+D:\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.read.1.tlog
+D:\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.write.1.tlog
+D:\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.dll
+D:\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.Properties.Resources.resources
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Mvvm.Validation.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\bin\Debug\Common.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.Properties.Resources.resources
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.read.1.tlog
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\GenerateResource.write.1.tlog
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Debug\Mvvm.Validation.pdb

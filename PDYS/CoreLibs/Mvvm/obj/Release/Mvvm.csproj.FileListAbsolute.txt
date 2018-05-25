@@ -1,0 +1,7 @@
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Release\Mvvm.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Release\Mvvm.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Release\Common.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Release\Common.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm\obj\Release\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Mvvm\obj\Release\Mvvm.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm\obj\Release\Mvvm.pdb

@@ -1,0 +1,33 @@
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\Mvvm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\Mvvm\bin\Debug\Mvvm.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\Mvvm\bin\Debug\Mvvm.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\Mvvm\obj\Debug\Mvvm.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\Mvvm\obj\Debug\Mvvm.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm\bin\Debug\Common.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm\bin\Debug\Common.pdb
+D:\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.dll
+D:\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.pdb
+D:\PDYS\CoreLibs\Mvvm\bin\Debug\Common.dll
+D:\PDYS\CoreLibs\Mvvm\bin\Debug\Common.pdb
+D:\PDYS\CoreLibs\Mvvm\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.dll
+D:\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm\bin\Debug\Common.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm\bin\Debug\Common.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Debug\Mvvm.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Debug\Common.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm\bin\Debug\Common.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm\obj\Debug\Mvvm.pdb

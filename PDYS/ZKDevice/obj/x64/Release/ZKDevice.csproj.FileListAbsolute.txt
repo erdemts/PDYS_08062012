@@ -1,0 +1,10 @@
+D:\PDYS\PDYS\ZKDevice\bin\x64\Release\ZKDevice.dll
+D:\PDYS\PDYS\ZKDevice\bin\x64\Release\ZKDevice.pdb
+D:\PDYS\PDYS\ZKDevice\bin\x64\Release\DeviceManagement.dll
+D:\PDYS\PDYS\ZKDevice\bin\x64\Release\DeviceManagement.pdb
+D:\PDYS\PDYS\ZKDevice\bin\x64\Release\Interop.zkemkeeper.dll
+D:\PDYS\PDYS\ZKDevice\obj\x64\Release\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\ZKDevice\obj\x64\Release\Interop.zkemkeeper.dll
+D:\PDYS\PDYS\ZKDevice\obj\x64\Release\ZKDevice.csproj.ResolveComReference.cache
+D:\PDYS\PDYS\ZKDevice\obj\x64\Release\ZKDevice.dll
+D:\PDYS\PDYS\ZKDevice\obj\x64\Release\ZKDevice.pdb

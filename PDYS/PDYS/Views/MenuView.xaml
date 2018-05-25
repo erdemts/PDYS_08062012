@@ -1,0 +1,69 @@
+﻿<UserControl x:Class="PDYS.Views.MenuView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:PDYS.ViewModels"
+             MinWidth="200"
+             d:DesignHeight="300"
+             mc:Ignorable="d" d:DataContext="{Binding Path=Menu, Source={StaticResource  AppData}}">
+    
+        <!--<UserControl.DataContext >
+        <vm:MenuViewDataModel />
+    </UserControl.DataContext>-->
+
+    <UserControl.Resources>
+        <DataTemplate x:Key="menuItem">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </DataTemplate>
+
+        
+
+    </UserControl.Resources>
+
+    <Grid>
+        <DockPanel>
+        <!--<Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>-->
+
+            <ItemsControl Grid.Row="1"
+                      DockPanel.Dock="Bottom"
+                      MinHeight="30"
+                      ItemsSource="{Binding MenuGroupList}" >
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Button Height="32" Command="{Binding Path=Command}"  HorizontalContentAlignment="Left" >
+                            <Button.Content>
+                                <Grid Margin="5,0,5,0" >
+                                    <TextBlock Text="{Binding Path=DisplayName}" />
+                                </Grid>
+                            </Button.Content>
+                        </Button>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+            <ListBox Margin="0,0,0,5" ItemsSource="{Binding SubMenuItems}" SelectionMode="Single" SelectedItem="{Binding SelectedMenu, Mode=TwoWay}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="5,0,5,0" >
+                        <TextBlock Text="{Binding Path=DisplayName}" />
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+       
+
+        </DockPanel>
+
+    </Grid>
+</UserControl>

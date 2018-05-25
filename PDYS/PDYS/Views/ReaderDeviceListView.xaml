@@ -1,0 +1,97 @@
+﻿<UserControl x:Class="PDYS.Views.ReaderDeviceListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+             xmlns:helper="clr-namespace:PDYS.Helper"
+             xmlns:ia="http://schemas.microsoft.com/expression/2010/interactivity"
+             xmlns:infra="clr-namespace:PDYS.InfraStructure"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:uc="clr-namespace:PDYS.UserControls"
+             MinWidth="600"
+             MinHeight="400"
+             mc:Ignorable="d">
+
+
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+        <GroupBox Margin="0,0,0,0" Header="Arama Kriteri">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <TextBlock Margin="0"
+                           VerticalAlignment="Center"
+                           Text="Cihaz Adı" />
+
+                <dxe:TextEdit Grid.Row="0"
+                              Grid.Column="1"
+                              Margin="10,0,0,0"
+                              VerticalAlignment="Center"
+                              EditValue="{Binding SearchText,
+                                                  Mode=TwoWay,
+                                                  ValidatesOnDataErrors=True}" />
+
+                <Button Grid.Row="1"
+                        Grid.ColumnSpan="2"
+                        Width="80"
+                        Margin="0,5,0,0"
+                        HorizontalAlignment="Right"
+                        Command="{Binding SearchCommand}"
+                        Content="Arama" />
+            </Grid>
+        </GroupBox>
+
+        <Grid Grid.Row="1" Margin="0,5,0,0">
+
+            <uc:EntityList GridContent="{DynamicResource EntityDataGrid}" />
+
+            <Grid.Resources>
+
+                <DataGrid x:Key="EntityDataGrid">
+
+                    <ia:Interaction.Triggers>
+                        <ia:EventTrigger EventName="MouseDoubleClick">
+                            <infra:ExecuteCommandAction Command="{Binding MouseDoubleClickCommand}" />
+                        </ia:EventTrigger>
+                    </ia:Interaction.Triggers>
+
+                    <DataGrid.Columns>
+
+                        <DataGridTextColumn Width="250"
+                                            Binding="{Binding Name}"
+                                            Header="Kod"
+                                            IsReadOnly="True" />
+
+                        <DataGridTextColumn Width="150"
+                                            Binding="{Binding InputOutputType,
+                                                              ConverterParameter=InputOutputType,
+                                                              Converter={StaticResource ParameterConverter}}"
+                                            Header="Hareket Tipi"
+                                            IsReadOnly="True" />
+
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </Grid.Resources>
+
+        </Grid>
+
+    </Grid>
+</UserControl>

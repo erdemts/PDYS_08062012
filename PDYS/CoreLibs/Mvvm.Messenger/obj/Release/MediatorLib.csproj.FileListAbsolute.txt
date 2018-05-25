@@ -1,0 +1,5 @@
+F:\net resources\My Blog\MediatorTest\MediatorLib\bin\Release\MediatorLib.dll
+F:\net resources\My Blog\MediatorTest\MediatorLib\bin\Release\MediatorLib.pdb
+F:\net resources\My Blog\MediatorTest\MediatorLib\obj\Release\ResolveAssemblyReference.cache
+F:\net resources\My Blog\MediatorTest\MediatorLib\obj\Release\MediatorLib.dll
+F:\net resources\My Blog\MediatorTest\MediatorLib\obj\Release\MediatorLib.pdb

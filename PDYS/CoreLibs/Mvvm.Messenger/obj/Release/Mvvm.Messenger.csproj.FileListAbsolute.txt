@@ -1,0 +1,5 @@
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\bin\Release\Mvvm.Messenger.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\bin\Release\Mvvm.Messenger.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\obj\Release\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\obj\Release\Mvvm.Messenger.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\obj\Release\Mvvm.Messenger.pdb

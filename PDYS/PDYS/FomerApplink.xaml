@@ -1,0 +1,202 @@
+   <resources:ApplicationButton x:Name="btnHome"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,10,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 BorderThickness="2"
+                                                 Command="{Binding Path=DataContext.BtnHomePageCommand,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Ana Sayfa"
+                                                 ImageSource="/HomePageResources;component/Resources/homepage_icon.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="btnBizbize"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 BorderThickness="2"
+                                                 Command="{Binding Path=DataContext.BtnBizBizeCommand,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Bizbize"
+                                                 ImageSource="/RGFomerApplications;component/Resources/bizbize.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="button2"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnServiceCenterCommand,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Hizmet Merkezi"
+                                                 ImageSource="/RGFomerApplications;component/Resources/opus.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnSubeWeb"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnSubeWeb,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Þube Web"
+                                                 ImageSource="/RGFomerApplications;component/Resources/subeweb.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="button5"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnSolutionCenter,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Çözüm Merkezi"
+                                                 ImageSource="/RGFomerApplications;component/Resources/cozummerkezi.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnFincas"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnFincas,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Fincas"
+                                                 ImageSource="/RGFomerApplications;component/Resources/fincas.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnMoodys"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnMoodys,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Moody's"
+                                                 ImageSource="/RGFomerApplications;component/Resources/moodys.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="button3"
+                                                 Width="200"
+                                                 Height="23"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnCustomerInfManagement,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="CRM"
+                                                 ImageSource="/RGFomerApplications;component/Resources/musteri_bilgi_yon.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="button4"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnCustomerManagement,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Müþteri Yönetim Ekraný"
+                                                 ImageSource="/RGFomerApplications;component/Resources/musteri_yon_ekr.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="button8"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnBranchManagementReports,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Microstrategy"
+                                                 ImageSource="/RGFomerApplications;component/Resources/sube_yon_rap.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnHps"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnHps,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="HPS"
+                                                 ImageSource="/RGFomerApplications;component/Resources/HPSnew.PNG"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="button15"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnEkspertiz,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Ekspertiz"
+                                                 ImageSource="/RGFomerApplications;component/Resources/ekspertiz.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnFehas"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnFehas,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Fehaþ"
+                                                 ImageSource="/RGFomerApplications;component/Resources/fehas.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnSompoJapan"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnSompoJapan,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Sompo Japan"
+                                                 ImageSource="/RGFomerApplications;component/Resources/sombo.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnAxaSigorta"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnAxaSigorta,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Axa Sigorta"
+                                                 ImageSource="/RGFomerApplications;component/Resources/axa.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnOracle"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnOracle,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Oracle"
+                                                 ImageSource="/RGFomerApplications;component/Resources/oracle.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnEIsoft"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnEIsoft,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="e-Isoft"
+                                                 ImageSource="/RGFomerApplications;component/Resources/iesoft.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnYts"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnYts,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="YTS"
+                                                 ImageSource="/RGFomerApplications;component/Resources/ytz.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnInvest"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnInvest,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="Finans Invest"
+                                                 ImageSource="/RGFomerApplications;component/Resources/musteri_yon_ekr.png"
+                                                 Template="{StaticResource ApplicationButton}" />
+                    <resources:ApplicationButton x:Name="BttnFinansOnline"
+                                                 Width="200"
+                                                 Height="25"
+                                                 Margin="5,5,5,5"
+                                                 HorizontalContentAlignment="Left"
+                                                 Command="{Binding Path=DataContext.BtnFinansOnline,
+                                                                   ElementName=RGFomerApplicationsView}"
+                                                 Content="FONline"
+                                                 ImageSource="/RGFomerApplications;component/Resources/fonline.PNG"
+                                                 Template="{StaticResource ApplicationButton}" />

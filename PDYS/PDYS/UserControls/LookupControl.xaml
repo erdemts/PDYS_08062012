@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="PDYS.UserControls.LookupControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             x:Name="Part_Root"
+             Margin="0"
+             d:DesignWidth="200"
+             Padding="0"
+             mc:Ignorable="d">
+
+    <UserControl.Style>
+        <Style TargetType="{x:Type UserControl}">
+            <!--<Setter Property="Validation.ErrorTemplate" Value="{x:Null}" />-->
+            <Setter Property="Margin" Value="3" />
+        </Style>
+    </UserControl.Style>
+
+    <Grid>
+        <dxe:ButtonEdit x:Name="lkpMainCtrl"
+                        DefaultButtonClick="Button_Click"
+                        EditValue="{Binding Path=SelectedDataModel,
+                                            ElementName=Part_Root,
+                                            Mode=OneWay,
+                                            ValidatesOnDataErrors=True}"
+                        IsTextEditable="False"
+                        Text="{Binding Path=SelectedDataModel.DisplayName,
+                                       ElementName=Part_Root,
+                                       Mode=OneWay,
+                                       ValidatesOnDataErrors=True}"
+                       />
+        <!--Validate="lkpMainCtrl_Validate"-->
+    </Grid>
+</UserControl>

@@ -1,0 +1,11 @@
+D:\PDYS\PDYS\LicenceManager\bin\Debug\LicenceManager.exe
+D:\PDYS\PDYS\LicenceManager\bin\Debug\LicenceManager.pdb
+D:\PDYS\PDYS\LicenceManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\LicenceManager\obj\x86\Debug\LicenceManager.Form1.resources
+D:\PDYS\PDYS\LicenceManager\obj\x86\Debug\LicenceManager.Properties.Resources.resources
+D:\PDYS\PDYS\LicenceManager\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PDYS\PDYS\LicenceManager\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PDYS\PDYS\LicenceManager\obj\x86\Debug\LicenceManager.exe
+D:\PDYS\PDYS\LicenceManager\obj\x86\Debug\LicenceManager.pdb
+D:\PDYS\PDYS\LicenceManager\bin\Debug\Common.dll
+D:\PDYS\PDYS\LicenceManager\bin\Debug\Common.pdb

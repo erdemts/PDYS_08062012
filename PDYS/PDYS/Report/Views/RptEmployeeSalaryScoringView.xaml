@@ -1,0 +1,106 @@
+﻿<UserControl x:Class="PDYS.Report.Views.RptEmployeeSalaryScoringView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:dxp="http://schemas.devexpress.com/winfx/2008/xaml/printing"
+             xmlns:uc="clr-namespace:PDYS.UserControls"
+             dx:ThemeManager.ThemeName="DeepBlue">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+
+
+        <GroupBox Margin="0,0,0,5" Header="Rapor Parametreleri">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="1"
+                        Width="100"
+                        Margin="5"
+                        VerticalAlignment="Top"
+                        Command="{Binding ExecuteReportCommand}"
+                        Content="Raporu Çalıştır" />
+
+                <StackPanel Grid.ColumnSpan="3"
+                            VerticalAlignment="Center"
+                            Orientation="Horizontal">
+
+                    <TextBlock Grid.Row="1"
+                               Grid.Column="0"
+                               VerticalAlignment="Center"
+                               Text="Peronel" />
+
+                    <uc:ExtendLookup Grid.Row="1"
+                                     Grid.Column="1"
+                                     Width="200"
+                                     Margin="3"
+                                     HorizontalAlignment="Left"
+                                     LookupViewModel="{Binding LookupPersonal}"
+                                     SelectedDataModel="{Binding Personal,
+                                                                 Mode=TwoWay,
+                                                                 ValidatesOnDataErrors=True}" />
+
+
+
+                    <TextBlock Margin="30,0,0,0"
+                               HorizontalAlignment="Left"
+                               VerticalAlignment="Center"
+                               Foreground="{StaticResource DarkFontColor}"
+                               Text="Ay" />
+
+                    <ComboBox Width="120"
+                              Margin="10,0,0,0"
+                              HorizontalAlignment="Left"
+                              VerticalAlignment="Center"
+                              IsEditable="False"
+                              ItemsSource="{Binding ListMonth}"
+                              SelectedItem="{Binding SelectMonth,
+                                                     Mode=TwoWay,
+                                                     ValidatesOnDataErrors=True}" />
+
+                    <TextBlock Margin="30,0,0,0"
+                               HorizontalAlignment="Left"
+                               VerticalAlignment="Center"
+                               Foreground="{StaticResource DarkFontColor}"
+                               Text="Yıl" />
+
+                    <ComboBox Width="80"
+                              Margin="10,0,10,0"
+                              HorizontalAlignment="Left"
+                              VerticalAlignment="Center"
+                              IsEditable="False"
+                              ItemsSource="{Binding ListYear}"
+                              SelectedItem="{Binding SelectYear,
+                                                     Mode=TwoWay,
+                                                     ValidatesOnDataErrors=True}" />
+
+
+
+                </StackPanel>
+
+            </Grid>
+        </GroupBox>
+
+
+
+
+
+
+        <Border Grid.Row="1"
+                Margin="0,0,0,0"
+                BorderBrush="{StaticResource DarkFontColor}"
+                BorderThickness="1,1,1,1"
+                Padding="0">
+            <dxp:DocumentPreview Model="{Binding PreviewModel}" />
+        </Border>
+    </Grid>
+</UserControl>

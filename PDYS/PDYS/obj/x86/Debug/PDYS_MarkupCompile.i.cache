@@ -1,0 +1,20 @@
+﻿PDYS
+
+
+winexe
+C#
+.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\
+PDYS
+none
+false
+DEBUG;TRACE
+D:\PDYS\PDYS\PDYS\App.xaml
+64354256137
+
+180482088662
+48-886726398
+BaseWindowView.xaml;LoadingWindow.xaml;LookupWindow.xaml;PopupWindow.xaml;MainWindow.xaml;Report\Views\RptEmployeeSalaryScoringView.xaml;Report\Views\RptEmployeeInOutScoringView.xaml;Report\Views\RptEmployeeListView.xaml;Report\Views\RptInputOutputView.xaml;Themes\ApplicationStyle.xaml;Themes\BureauBlack.xaml;Themes\BureauBlue.xaml;Themes\Copy of ApplicationStyle.xaml;Themes\ExpressionDark.xaml;Themes\ExpressionLight.xaml;Themes\ShinyBlue.xaml;Themes\ShinyRed.xaml;Themes\WhistlerBlue.xaml;UserControls\Block.xaml;UserControls\EntityList.xaml;UserControls\LoadingAnimation.xaml;UserControls\ReportPreview.xaml;Views\AccountingProcessTypeView.xaml;Views\AccountingProcessTypeListView.xaml;Views\LicenceView.xaml;Views\LogView.xaml;Views\SelectInOutScoringView.xaml;Views\UserControl1.xaml;Views\UserLoginView.xaml;Views\UserView.xaml;Views\UserListView.xaml;Views\SelectSalaryScoringDateView.xaml;Views\EmployeeSalaryScoringView.xaml;Views\EmployeeSalaryScoringListView.xaml;Views\EmployeeInOutScoringListView.xaml;Views\EmployeeInOutScoringView.xaml;Views\ReaderDeviceListView.xaml;Views\ReaderDeviceSelectionView.xaml;Views\ReaderDeviceView.xaml;Views\EmployeeAccountingListView.xaml;Views\EmployeeAccountingView.xaml;Views\EmployeeInputOutputListView.xaml;Views\EmployeeInputOutputView.xaml;Views\OvertimeAssignmentListView.xaml;Views\OvertimeMassAssignmentView.xaml;Views\OvertimeAssignmentView.xaml;Views\OutSourceOvertimeListView.xaml;Views\OutSourceOvertimeView.xaml;Views\WeeklyOvertimeView.xaml;Views\WeeklyOvertimeListView.xaml;Views\TransportListView.xaml;Views\TransportView.xaml;Views\PublicHolidayListView.xaml;Views\PublicHolidayView.xaml;Views\EmployeeHolidayListView.xaml;Views\EmployeeHolidayView.xaml;Views\DepartmentListView.xaml;Views\DepartmentView.xaml;Views\EmployeeListView.xaml;Views\EmployeeView.xaml;UserControls\HeaderControl.xaml;UserControls\LookupControl.xaml;Views\MenuView.xaml;Views\WorkingTimeView.xaml;
+
+True
+

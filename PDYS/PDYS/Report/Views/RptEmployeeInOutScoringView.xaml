@@ -1,0 +1,164 @@
+﻿<UserControl x:Class="PDYS.Report.Views.RptEmployeeInOutScoringView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:dxp="http://schemas.devexpress.com/winfx/2008/xaml/printing"
+             dx:ThemeManager.ThemeName="DeepBlue"
+             xmlns:uc="clr-namespace:PDYS.UserControls">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Margin="0,0,0,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="1"
+                    Width="100"
+                    Margin="5"
+                    VerticalAlignment="Top"
+                    Command="{Binding ExecuteReportCommand}"
+                    Content="Raporu Çalıştır" />
+
+            <Expander Header="Rapor Parametreleri">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="10" />
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+
+
+                    <TextBlock Grid.Row="0"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"
+                           Text="Başlangıç Tarihi" />
+
+                    <dxe:DateEdit Grid.Row="0"
+                              Grid.Column="1"
+                              Width="150"
+                              Margin="3"
+                              HorizontalAlignment="Left"
+                              VerticalAlignment="Center"
+                              AllowNullInput="True"
+                              EditValue="{Binding StartDate,
+                                                  Mode=TwoWay,
+                                                  ValidatesOnDataErrors=True}" />
+
+                    <TextBlock Grid.Row="0"
+                           Grid.Column="3"
+                           VerticalAlignment="Center"
+                           Text="Bitiş Tarihi" />
+
+                    <dxe:DateEdit Grid.Row="0"
+                              Grid.Column="4"
+                              Width="150"
+                              Margin="3"
+                              HorizontalAlignment="Left"
+                              VerticalAlignment="Center"
+                              AllowNullInput="True"
+                              EditValue="{Binding EndDate,
+                                                  Mode=TwoWay,
+                                                  ValidatesOnDataErrors=True}" />
+
+                    <TextBlock Grid.Row="1"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"
+                           Text="Peronel" />
+
+                    <uc:ExtendLookup Grid.Row="1"
+                                 Grid.Column="1"
+                                 Width="200"
+                                 Margin="3"
+                                 HorizontalAlignment="Left"
+                                 LookupViewModel="{Binding LookupPersonal}"
+                                 SelectedDataModel="{Binding Personal,
+                                                             Mode=TwoWay,
+                                                             ValidatesOnDataErrors=True}" />
+
+                    <TextBlock Grid.Row="1"
+                           Grid.Column="3"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"
+                           Foreground="{StaticResource DarkFontColor}"
+                           Text="İşlem Durumu" />
+
+                    <ComboBox Grid.Row="1"
+                          Grid.Column="4"
+                          Width="150"
+                          Margin="3"
+                          HorizontalAlignment="Left"
+                          IsEditable="False"
+                          ItemsSource="{Binding ListProcessState}"
+                          SelectedItem="{Binding SelectedProcessState,
+                                                 Mode=TwoWay,
+                                                 ValidatesOnDataErrors=True}" />
+
+                    <TextBlock Grid.Row="2"
+                           Grid.Column="0"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"
+                           Foreground="{StaticResource DarkFontColor}"
+                           Text="Hızlı Filtre" />
+
+                    <StackPanel Grid.Row="2"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="4"
+                            Orientation="Horizontal">
+
+                        <CheckBox VerticalAlignment="Center"
+                              Content="Sabah Geç Gelenler"
+                              IsChecked="{Binding IsInvalidStart,
+                                                  Mode=TwoWay,
+                                                  ValidatesOnDataErrors=True}" />
+                        <CheckBox Margin="10,3,10,3"
+                              VerticalAlignment="Center"
+                              Content="Öğlen Erken Çıkanlar"
+                              IsChecked="{Binding IsInvalidLunchOut,
+                                                  Mode=TwoWay,
+                                                  ValidatesOnDataErrors=True}" />
+                        <CheckBox Margin="10,3,10,3"
+                              VerticalAlignment="Center"
+                              Content="Öğlen Geç Gelenler"
+                              IsChecked="{Binding IsInvalidLunchIn,
+                                                  Mode=TwoWay,
+                                                  ValidatesOnDataErrors=True}" />
+                        <CheckBox Margin="10,3,10,3"
+                              VerticalAlignment="Center"
+                              Content="Akşam Erken Çıkanlar"
+                              IsChecked="{Binding IsInvalidEnd,
+                                                  Mode=TwoWay,
+                                                  ValidatesOnDataErrors=True}" />
+                    </StackPanel>
+                </Grid>
+
+            </Expander>
+
+        </Grid>
+
+
+
+        <Border Grid.Row="1"
+                Margin="0,0,0,0"
+                BorderBrush="{StaticResource DarkFontColor}"
+                BorderThickness="1,1,1,1"
+                Padding="0">
+            <dxp:DocumentPreview Model="{Binding PreviewModel}" />
+        </Border>
+    </Grid>
+</UserControl>

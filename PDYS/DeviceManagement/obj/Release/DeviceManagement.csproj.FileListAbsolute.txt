@@ -1,0 +1,5 @@
+D:\PDYS\PDYS\DeviceManagement\bin\Release\DeviceManagement.dll
+D:\PDYS\PDYS\DeviceManagement\bin\Release\DeviceManagement.pdb
+D:\PDYS\PDYS\DeviceManagement\obj\Release\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\DeviceManagement\obj\Release\DeviceManagement.dll
+D:\PDYS\PDYS\DeviceManagement\obj\Release\DeviceManagement.pdb

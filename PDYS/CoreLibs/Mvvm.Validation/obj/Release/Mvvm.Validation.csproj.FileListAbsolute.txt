@@ -1,0 +1,8 @@
+D:\PDYS\PDYS\CoreLibs\Output\lib\net40-client\Mvvm.Validation.dll
+D:\PDYS\PDYS\CoreLibs\Output\lib\net40-client\Mvvm.Validation.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Release\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Release\Mvvm.Validation.Properties.Resources.resources
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Release\GenerateResource.read.1.tlog
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Release\GenerateResource.write.1.tlog
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Release\Mvvm.Validation.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Validation\obj\Release\Mvvm.Validation.pdb

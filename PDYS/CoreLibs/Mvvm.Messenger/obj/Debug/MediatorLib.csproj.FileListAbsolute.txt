@@ -1,0 +1,15 @@
+F:\net resources\My Blog\MediatorTest\MediatorLib\bin\Debug\MediatorLib.dll
+F:\net resources\My Blog\MediatorTest\MediatorLib\bin\Debug\MediatorLib.pdb
+F:\net resources\My Blog\MediatorTest\MediatorLib\obj\Debug\ResolveAssemblyReference.cache
+F:\net resources\My Blog\MediatorTest\MediatorLib\obj\Debug\MediatorLib.dll
+F:\net resources\My Blog\MediatorTest\MediatorLib\obj\Debug\MediatorLib.pdb
+C:\Users\KENAN\Desktop\MediatorLib\MediatorLib\bin\Debug\MediatorLib.dll
+C:\Users\KENAN\Desktop\MediatorLib\MediatorLib\bin\Debug\MediatorLib.pdb
+C:\Users\KENAN\Desktop\MediatorLib\MediatorLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\MediatorLib\MediatorLib\obj\Debug\MediatorLib.dll
+C:\Users\KENAN\Desktop\MediatorLib\MediatorLib\obj\Debug\MediatorLib.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.pdb

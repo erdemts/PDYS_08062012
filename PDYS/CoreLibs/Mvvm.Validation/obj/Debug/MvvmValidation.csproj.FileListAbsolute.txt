@@ -1,0 +1,9 @@
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\Output\lib\net40-client\MvvmValidation.xml
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\Output\lib\net40-client\MvvmValidation.dll
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\Output\lib\net40-client\MvvmValidation.pdb
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\MvvmValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\MvvmValidation\obj\Debug\MvvmValidation.Properties.Resources.resources
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\MvvmValidation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\MvvmValidation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\MvvmValidation\obj\Debug\MvvmValidation.dll
+C:\Users\KENAN\Desktop\MvvmValidation-Src\MvvmValidation\MvvmValidation\obj\Debug\MvvmValidation.pdb

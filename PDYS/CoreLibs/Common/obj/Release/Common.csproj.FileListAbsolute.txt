@@ -1,0 +1,5 @@
+D:\PDYS\PDYS\CoreLibs\Common\bin\Release\Common.dll
+D:\PDYS\PDYS\CoreLibs\Common\bin\Release\Common.pdb
+D:\PDYS\PDYS\CoreLibs\Common\obj\Release\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Common\obj\Release\Common.dll
+D:\PDYS\PDYS\CoreLibs\Common\obj\Release\Common.pdb

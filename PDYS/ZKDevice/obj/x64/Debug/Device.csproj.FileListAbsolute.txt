@@ -1,0 +1,12 @@
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\Interop.zkemkeeper.dll
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\Device.csproj.ResolveComReference.cache
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\bin\x64\Debug\Device.exe
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\bin\x64\Debug\Device.pdb
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\bin\x64\Debug\Interop.zkemkeeper.dll
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\Device.DeviceMain.resources
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\Device.Properties.Resources.resources
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\ResGen.read.1.tlog
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\ResGen.write.1.tlog
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\Device.exe
+D:\PDYS\SDK\64BitSDK\Demo\C#\TFT_x64\Device Management\obj\x64\Debug\Device.pdb

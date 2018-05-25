@@ -1,0 +1,95 @@
+﻿<UserControl x:Class="PDYS.Views.SelectSalaryScoringDateView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:uc="clr-namespace:PDYS.UserControls"
+             mc:Ignorable="d">
+    <StackPanel>
+        <GroupBox Grid.Column="0"
+                  Margin="5"
+                  VerticalAlignment="Top"
+                  DockPanel.Dock="Bottom"
+                  Header="Hakediş Dönemi">
+
+            <StackPanel Margin="10"
+                        VerticalAlignment="Center"
+                        Orientation="Horizontal">
+
+                <TextBlock Grid.Row="0"
+                           Grid.Column="2"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"
+                           Foreground="{StaticResource DarkFontColor}"
+                           Text="Ay" />
+
+                <ComboBox Width="120"
+                          Margin="10,0,10,0"
+                          HorizontalAlignment="Left"
+                          VerticalAlignment="Center"
+                          IsEditable="False"
+                          ItemsSource="{Binding ListMonth}"
+                          SelectedItem="{Binding SelectMonth,
+                                                 Mode=TwoWay,
+                                                 ValidatesOnDataErrors=True}" />
+
+                <TextBlock HorizontalAlignment="Left"
+                           VerticalAlignment="Center"
+                           Foreground="{StaticResource DarkFontColor}"
+                           Text="Yıl" />
+
+                <ComboBox Width="80"
+                          Margin="10,0,10,0"
+                          HorizontalAlignment="Left"
+                          VerticalAlignment="Center"
+                          IsEditable="False"
+                          ItemsSource="{Binding Years}"
+                          SelectedItem="{Binding SelectYear,
+                                                 Mode=TwoWay,
+                                                 ValidatesOnDataErrors=True}" />
+
+
+
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Column="0"
+                  Margin="5"
+                  VerticalAlignment="Top"
+                  DockPanel.Dock="Bottom"
+                  Header="Personel">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton VerticalAlignment="Center"
+                                 GroupName="grpemployee"
+                                 IsChecked="{Binding IsAllEmployee,
+                                                     Mode=TwoWay}" />
+                    <TextBlock Margin="10,5,0,5"
+                               VerticalAlignment="Center"
+                               Text="Tüm Personel." />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton VerticalAlignment="Center"
+                                 GroupName="grpemployee"
+                                 IsChecked="{Binding IsSelectableEmployee,
+                                                     Mode=TwoWay}" />
+                    <TextBlock Margin="10,5,0,5"
+                               VerticalAlignment="Center"
+                               Text="Personel Seçimi" />
+                    <uc:ExtendLookup Grid.Row="0"
+                                     Grid.Column="2"
+                                     Width="200"
+                                     Margin="10,5,0,5"
+                                     IsEnabled="{Binding IsSelectableEmployee,
+                                                         Mode=TwoWay}"
+                                     LookupViewModel="{Binding LookupEmployee}"
+                                     SelectedDataModel="{Binding Employee,
+                                                                 Mode=TwoWay,
+                                                                 ValidatesOnDataErrors=True}" />
+
+
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+    </StackPanel>
+</UserControl>

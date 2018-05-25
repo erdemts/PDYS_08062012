@@ -1,0 +1,20 @@
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.pdb
+D:\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.dll
+D:\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.pdb
+D:\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.dll
+D:\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\bin\Debug\Mvvm.Messenger.pdb
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.dll
+D:\PDYS\PDYS\CoreLibs\Mvvm.Messenger\obj\Debug\Mvvm.Messenger.pdb

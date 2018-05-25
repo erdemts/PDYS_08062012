@@ -1,0 +1,18 @@
+﻿<Window x:Class="PDYS.LoadingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:uc="clr-namespace:PDYS.UserControls"
+        ResizeMode="NoResize"
+        SizeToContent="WidthAndHeight"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="ToolWindow">
+    <StackPanel Margin="50,10,50,10"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+        <uc:LoadingAnimation HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <TextBlock Margin="0,10,0,0"
+                   Foreground="Navy"
+                   Opacity="0.7"
+                   Text="İşleminiz Yapılıyor. Lütfen Bekleyiniz..." />
+    </StackPanel>
+</Window>

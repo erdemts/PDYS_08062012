@@ -1,0 +1,55 @@
+﻿<UserControl x:Class="PDYS.Views.WorkingTimeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d">
+
+    <StackPanel Orientation="Horizontal">
+
+        <TextBlock Margin="0,0,5,0"
+                   VerticalAlignment="Center"
+                   Text="Saat" />
+
+        <dxe:TextEdit Width="60"
+                      Margin="0,3,0,3"
+                      HorizontalAlignment="Left"
+                      VerticalAlignment="Center"
+                      EditValue="{Binding Time,
+                                          Mode=TwoWay,
+                                          ValidatesOnDataErrors=True}"
+                      IsEnabled="{Binding IsEditable,
+                                          Mode=TwoWay}"
+                      Mask="HH:mm"
+                      MaskAllowNullInput="False"
+                      MaskIgnoreBlank="False"
+                      MaskType="DateTime"
+                      MaskUseAsDisplayFormat="True" />
+
+        <TextBlock Margin="5,0,5,0"
+                   VerticalAlignment="Center"
+                   Text="Fark" />
+
+        <dxe:TextEdit Width="50"
+                      Margin="0,3,0,3"
+                      EditValue="{Binding Difference,
+                                          Mode=TwoWay,
+                                          ValidatesOnDataErrors=True}"
+                      IsEnabled="False" />
+
+
+        <CheckBox Margin="5,0,0,0"
+                  VerticalAlignment="Center"
+                  IsChecked="{Binding IsValid,
+                                      Mode=TwoWay,
+                                      ValidatesOnDataErrors=True}"
+                  IsEnabled="False" />
+
+        <TextBlock Margin="2,0,0,0"
+                   VerticalAlignment="Center"
+                   Text="Doğru" />
+
+
+    </StackPanel>
+</UserControl>

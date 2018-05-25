@@ -1,0 +1,245 @@
+﻿
+<Application x:Class="PDYS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:con="clr-namespace:PDYS.Converter"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:md="clr-namespace:PDYS.Models"
+             xmlns:rvm="clr-namespace:PDYS.Report.ViewModels"
+             xmlns:rvw="clr-namespace:PDYS.Report.Views"
+             xmlns:vm="clr-namespace:PDYS.ViewModels"
+             xmlns:vw="clr-namespace:PDYS.Views"
+             StartupUri="MainWindow.xaml"
+             mc:Ignorable="d">
+    <Application.Resources>
+
+
+
+        <ResourceDictionary>
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Themes\ApplicationStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+
+            <vm:ApplicationDataModel x:Key="AppDataModel" />
+
+            <!--  Converters  -->
+            <con:DateConverter x:Key="DateConverter" />
+            <con:TimeConverter x:Key="TimeConverter" />
+
+            <con:ConvertByteToImage x:Key="ConvertByteToImage" />
+            <con:VisibilityConverter x:Key="VisibilityConverter" />
+            <con:NotVisibilityConverter x:Key="NotVisibilityConverter" />
+            <con:EnabledConverter x:Key="EnabledConverter" />
+            <con:DayNameConverter x:Key="DayNameConverter" />
+            <con:FactorConverter x:Key="FactorConverter" />
+            <con:DurationConverter x:Key="DurationConverter" />
+            <con:SelectionModeConverter x:Key="SelectionModeConverter" />
+            <con:ParameterConverter x:Key="ParameterConverter" />
+            <con:CurrencyConverter x:Key="CurrencyConverter" />
+            <con:MinuteConverter x:Key="MinuteConverter" />
+            <con:OvertimeColorConverter x:Key="OvertimeColorConverter" />
+
+
+
+
+
+            <!--  Employee  -->
+            <DataTemplate DataType="{x:Type vm:EmployeeViewModel}">
+                <vw:EmployeeView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:EmployeeListViewModel}">
+                <vw:EmployeeListView />
+            </DataTemplate>
+
+            <!--  Department  -->
+            <DataTemplate DataType="{x:Type vm:DepartmentViewModel}">
+                <vw:DepartmentView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:DepartmentListViewModel}">
+                <vw:DepartmentListView />
+            </DataTemplate>
+
+            <!--  Employee Holiday  -->
+            <DataTemplate DataType="{x:Type vm:EmployeeHolidayViewModel}">
+                <vw:EmployeeHolidayView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:EmployeeHolidayListViewModel}">
+                <vw:EmployeeHolidayListView />
+            </DataTemplate>
+
+            <!--  Public Holiday  -->
+            <DataTemplate DataType="{x:Type vm:PublicHolidayViewModel}">
+                <vw:PublicHolidayView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:PublicHolidayListViewModel}">
+                <vw:PublicHolidayListView />
+            </DataTemplate>
+
+            <!--  Personal Transport  -->
+            <DataTemplate DataType="{x:Type vm:TransportViewModel}">
+                <vw:TransportView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:TransportListViewModel}">
+                <vw:TransportListView />
+            </DataTemplate>
+
+            <!--  Weekly Overtime  -->
+            <DataTemplate DataType="{x:Type vm:WeeklyOvertimeListViewModel}">
+                <vw:WeeklyOvertimeListView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:WeeklyOvertimeViewModel}">
+                <vw:WeeklyOvertimeView />
+            </DataTemplate>
+
+            <!--  OutSource Overtime  -->
+            <DataTemplate DataType="{x:Type vm:OutSourceOvertimeViewModel}">
+                <vw:OutSourceOvertimeView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:OutSourceOvertimeListViewModel}">
+                <vw:OutSourceOvertimeListView />
+            </DataTemplate>
+
+
+            <!--  Personal Overtime Relation  -->
+            <DataTemplate DataType="{x:Type vm:OvertimeAssignmentViewModel}">
+                <vw:OvertimeAssignmentView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:OvertimeAssignmentListViewModel}">
+                <vw:OvertimeAssignmentListView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:OvertimeMassAssignmentViewModel}">
+                <vw:OvertimeMassAssignmentView />
+            </DataTemplate>
+
+            <!--  Personal Input Output  -->
+            <DataTemplate DataType="{x:Type vm:EmployeeInputOutputViewModel}">
+                <vw:EmployeeInputOutputView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:EmployeeInputOutputListViewModel}">
+                <vw:EmployeeInputOutputListView />
+            </DataTemplate>
+
+            <!--  Accounting Process Type  -->
+            <DataTemplate DataType="{x:Type vm:AccountingProcessTypeViewModel}">
+                <vw:AccountingProcessTypeView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:AccountingProcessTypeListViewModel}">
+                <vw:AccountingProcessTypeListView />
+            </DataTemplate>
+
+            <!--  EmployeeAccountingListViewModel  -->
+            <DataTemplate DataType="{x:Type vm:EmployeeAccountingViewModel}">
+                <vw:EmployeeAccountingView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:EmployeeAccountingListViewModel}">
+                <vw:EmployeeAccountingListView />
+            </DataTemplate>
+
+
+            <!--  Reader Device  -->
+            <DataTemplate DataType="{x:Type vm:ReaderDeviceListViewModel}">
+                <vw:ReaderDeviceListView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:ReaderDeviceViewModel}">
+                <vw:ReaderDeviceView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:ReaderDeviceSelectionViewModel}">
+                <vw:ReaderDeviceSelectionView />
+            </DataTemplate>
+
+            <!--  In-Out Scoring  -->
+            <DataTemplate DataType="{x:Type vm:EmployeeInOutScoringListViewModel}">
+                <vw:EmployeeInOutScoringListView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:EmployeeInOutScoringViewModel}">
+                <vw:EmployeeInOutScoringView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:SelectInOutScoringViewModel}">
+                <vw:SelectInOutScoringView />
+            </DataTemplate>
+
+
+
+            <!--  EmployeeSalaryScoringView  -->
+            <DataTemplate DataType="{x:Type vm:EmployeeSalaryScoringListViewModel}">
+                <vw:EmployeeSalaryScoringListView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:EmployeeSalaryScoringViewModel}">
+                <vw:EmployeeSalaryScoringView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:SelectSalaryScoringDateViewModel}">
+                <vw:SelectSalaryScoringDateView />
+            </DataTemplate>
+
+            <!--  User  -->
+            <DataTemplate DataType="{x:Type vm:UserListViewModel}">
+                <vw:UserListView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:UserViewModel}">
+                <vw:UserView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:UserLoginViewModel}">
+                <vw:UserLoginView />
+            </DataTemplate>
+
+            <!--    -->
+            <DataTemplate DataType="{x:Type vm:LogViewModel}">
+                <vw:LogView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:LicenceViewModel}">
+                <vw:LicenceView />
+            </DataTemplate>
+
+
+
+
+            <!--  Report : User Input Output  -->
+            <DataTemplate DataType="{x:Type rvm:RptInputOutputViewModel}">
+                <rvw:RptInputOutputView />
+            </DataTemplate>
+
+            <!--  Report : User Input Output Scoring  -->
+            <DataTemplate DataType="{x:Type rvm:RptEmployeeInOutScoringViewModel}">
+                <rvw:RptEmployeeInOutScoringView />
+            </DataTemplate>
+
+            <!--  Report : User Input Output Scoring  -->
+            <DataTemplate DataType="{x:Type rvm:RptEmployeeListViewModel}">
+                <rvw:RptEmployeeListView />
+            </DataTemplate>
+
+            <!--  Report : Employee Salary Scoring  -->
+            <DataTemplate DataType="{x:Type rvm:RptEmployeeSalaryScoringViewModel}">
+                <rvw:RptEmployeeSalaryScoringView />
+            </DataTemplate>
+
+
+
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,1131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<city code='04' name='AĞRI' >
+		<county code='1111' name='AĞRI MERKEZ' />
+		<county code='1283' name='DİYADİN' />
+		<county code='1287' name='DOĞUBAYAZIT' />
+		<county code='1301' name='ELEŞKİRT' />
+		<county code='1379' name='HAMUR' />
+		<county code='1568' name='PATNOS' />
+		<county code='1667' name='TAŞLIÇAY' />
+		<county code='1691' name='TUTAK' />
+	</city>
+	<city code='01' name='ADANA' >
+		<county code='1757' name='ALADAĞ' />
+		<county code='1219' name='CEYHAN' />
+		<county code='2033' name='ÇUKUROVA' />
+		<county code='1329' name='FEKE' />
+		<county code='1806' name='İMAMOĞLU' />
+		<county code='1437' name='KARAİSALI' />
+		<county code='1443' name='KARATAŞ' />
+		<county code='1486' name='KOZAN' />
+		<county code='1580' name='POZANTI' />
+		<county code='1588' name='SAİMBEYLİ' />
+		<county code='2032' name='SARIÇAM' />
+		<county code='1104' name='SEYHAN' />
+		<county code='1687' name='TUFANBEYLİ' />
+		<county code='1734' name='YUMURTALIK' />
+		<county code='1748' name='YÜREĞİR' />
+	</city>
+	<city code='02' name='ADIYAMAN' >
+		<county code='1105' name='ADIYAMAN MERKEZ' />
+		<county code='1182' name='BESNİ' />
+		<county code='1246' name='ÇELİKHAN' />
+		<county code='1347' name='GERGER' />
+		<county code='1354' name='GÖLBAŞI / ADIYAMAN' />
+		<county code='1425' name='KAHTA' />
+		<county code='1592' name='SAMSAT' />
+		<county code='1985' name='SİNCİK' />
+		<county code='1989' name='TUT' />
+	</city>
+	<city code='03' name='AFYONKARAHİSAR' >
+		<county code='1108' name='AFYONKARAHİSAR MERKEZ' />
+		<county code='1771' name='BAŞMAKÇI' />
+		<county code='1773' name='BAYAT / AFYONKARAHİSAR' />
+		<county code='1200' name='BOLVADİN' />
+		<county code='1239' name='ÇAY' />
+		<county code='1906' name='ÇOBANLAR' />
+		<county code='1267' name='DAZKIRI' />
+		<county code='1281' name='DİNAR' />
+		<county code='1306' name='EMİRDAĞ' />
+		<county code='1923' name='EVCİLER' />
+		<county code='1944' name='HOCALAR' />
+		<county code='1404' name='İHSANİYE' />
+		<county code='1809' name='İSCEHİSAR' />
+		<county code='1961' name='KIZILÖREN' />
+		<county code='1594' name='SANDIKLI' />
+		<county code='1626' name='SİNANPAŞA' />
+		<county code='1664' name='ŞUHUT' />
+		<county code='1639' name='SULTANDAĞI' />
+	</city>
+	<city code='68' name='AKSARAY' >
+		<county code='1860' name='AĞAÇÖREN' />
+		<county code='1120' name='AKSARAY MERKEZ' />
+		<county code='1921' name='ESKİL' />
+		<county code='1932' name='GÜLAĞAÇ' />
+		<county code='1861' name='GÜZELYURT' />
+		<county code='1557' name='ORTAKÖY' />
+		<county code='1866' name='SARIYAHŞİ' />
+	</city>
+	<city code='05' name='AMASYA' >
+		<county code='1134' name='AMASYA MERKEZ' />
+		<county code='1363' name='GÖYNÜCEK' />
+		<county code='1368' name='GÜMÜŞHACIKÖY' />
+		<county code='1938' name='HAMAMÖZÜ' />
+		<county code='1524' name='MERZİFON' />
+		<county code='1641' name='SULUOVA' />
+		<county code='1668' name='TAŞOVA' />
+	</city>
+	<city code='06' name='ANKARA' >
+		<county code='1872' name='AKYURT' />
+		<county code='1130' name='ALTINDAĞ' />
+		<county code='1157' name='AYAŞ' />
+		<county code='1167' name='BALA' />
+		<county code='1187' name='BEYPAZARI' />
+		<county code='1227' name='ÇAMLIDERE' />
+		<county code='1231' name='ÇANKAYA' />
+		<county code='1260' name='ÇUBUK' />
+		<county code='1302' name='ELMADAĞ' />
+		<county code='1922' name='ETİMESGUT' />
+		<county code='1924' name='EVREN' />
+		<county code='1744' name='GÖLBAŞI / ANKARA' />
+		<county code='1365' name='GÜDÜL' />
+		<county code='1387' name='HAYMANA' />
+		<county code='1427' name='KALECİK' />
+		<county code='1815' name='KAZAN' />
+		<county code='1745' name='KEÇİÖREN' />
+		<county code='1473' name='KIZILCAHAMAM' />
+		<county code='1746' name='MAMAK' />
+		<county code='1539' name='NALLIHAN' />
+		<county code='1578' name='POLATLI' />
+		<county code='2034' name='PURSAKLAR' />
+		<county code='1658' name='ŞEREFLİKOÇHİSAR' />
+		<county code='1747' name='SİNCAN' />
+		<county code='1723' name='YENİMAHALLE' />
+	</city>
+	<city code='07' name='ANTALYA' >
+		<county code='1121' name='AKSEKİ' />
+		<county code='2035' name='AKSU / ANTALYA' />
+		<county code='1126' name='ALANYA' />
+		<county code='1138' name='ANTALYA MERKEZ' />
+		<county code='1811' name='DEMRE' />
+		<county code='2036' name='DÖŞEMEALTI' />
+		<county code='1303' name='ELMALI' />
+		<county code='1333' name='FİNİKE' />
+		<county code='1337' name='GAZİPAŞA' />
+		<county code='1370' name='GÜNDOĞMUŞ' />
+		<county code='1946' name='İBRADI' />
+		<county code='1451' name='KAŞ' />
+		<county code='1959' name='KEMER / ANTALYA' />
+		<county code='2037' name='KEPEZ' />
+		<county code='2038' name='KONYAALTI' />
+		<county code='1483' name='KORKUTELİ' />
+		<county code='1492' name='KUMLUCA' />
+		<county code='1512' name='MANAVGAT' />
+		<county code='2039' name='MURATPAŞA' />
+		<county code='1616' name='SERİK' />
+	</city>
+	<city code='75' name='ARDAHAN' >
+		<county code='1144' name='ARDAHAN MERKEZ' />
+		<county code='1252' name='ÇILDIR' />
+		<county code='2008' name='DAMAL' />
+		<county code='1356' name='GÖLE' />
+		<county code='1380' name='HANAK' />
+		<county code='1579' name='POSOF' />
+	</city>
+	<city code='08' name='ARTVİN' >
+		<county code='1145' name='ARDANUÇ' />
+		<county code='1147' name='ARHAVİ' />
+		<county code='1152' name='ARTVİN MERKEZ' />
+		<county code='1202' name='BORÇKA' />
+		<county code='1395' name='HOPA' />
+		<county code='1828' name='MURGUL' />
+		<county code='1653' name='ŞAVŞAT' />
+		<county code='1736' name='YUSUFELİ' />
+	</city>
+	<city code='09' name='AYDIN' >
+		<county code='1159' name='AYDIN MERKEZ' />
+		<county code='1206' name='BOZDOĞAN' />
+		<county code='1781' name='BUHARKENT' />
+		<county code='1256' name='ÇİNE' />
+		<county code='2000' name='DİDİM' />
+		<county code='1348' name='GERMENCİK' />
+		<county code='1807' name='İNCİRLİOVA' />
+		<county code='1435' name='KARACASU' />
+		<county code='1957' name='KARPUZLU' />
+		<county code='1479' name='KOÇARLI' />
+		<county code='1968' name='KÖŞK' />
+		<county code='1497' name='KUŞADASI' />
+		<county code='1498' name='KUYUCAK' />
+		<county code='1542' name='NAZİLLİ' />
+		<county code='1637' name='SÖKE' />
+		<county code='1640' name='SULTANHİSAR' />
+		<county code='1724' name='YENİPAZAR / AYDIN' />
+	</city>
+	<city code='10' name='BALIKESİR' >
+		<county code='1161' name='AYVALIK' />
+		<county code='1168' name='BALIKESİR MERKEZ' />
+		<county code='1169' name='BALYA' />
+		<county code='1171' name='BANDIRMA' />
+		<county code='1191' name='BİGADİÇ' />
+		<county code='1216' name='BURHANİYE' />
+		<county code='1291' name='DURSUNBEY' />
+		<county code='1294' name='EDREMİT / BALIKESİR' />
+		<county code='1310' name='ERDEK' />
+		<county code='1928' name='GÖMEÇ' />
+		<county code='1360' name='GÖNEN / BALIKESİR' />
+		<county code='1384' name='HAVRAN' />
+		<county code='1418' name='İVRİNDİ' />
+		<county code='1462' name='KEPSUT' />
+		<county code='1514' name='MANYAS' />
+		<county code='1824' name='MARMARA' />
+		<county code='1608' name='SAVAŞTEPE' />
+		<county code='1619' name='SINDIRGI' />
+		<county code='1644' name='SUSURLUK' />
+	</city>
+	<city code='74' name='BARTIN' >
+		<county code='1761' name='AMASRA' />
+		<county code='1172' name='BARTIN MERKEZ' />
+		<county code='1496' name='KURUCAŞİLE' />
+		<county code='1701' name='ULUS' />
+	</city>
+	<city code='72' name='BATMAN' >
+		<county code='1174' name='BATMAN MERKEZ' />
+		<county code='1184' name='BEŞİRİ' />
+		<county code='1345' name='GERCÜŞ' />
+		<county code='1941' name='HASANKEYF' />
+		<county code='1487' name='KOZLUK' />
+		<county code='1607' name='SASON' />
+	</city>
+	<city code='69' name='BAYBURT' >
+		<county code='1767' name='AYDINTEPE' />
+		<county code='1176' name='BAYBURT MERKEZ' />
+		<county code='1788' name='DEMİRÖZÜ' />
+	</city>
+	<city code='11' name='BİLECİK' >
+		<county code='1192' name='BİLECİK MERKEZ' />
+		<county code='1210' name='BOZÜYÜK' />
+		<county code='1359' name='GÖLPAZARI' />
+		<county code='1948' name='İNHİSAR' />
+		<county code='1559' name='OSMANELİ' />
+		<county code='1571' name='PAZARYERİ' />
+		<county code='1636' name='SÖĞÜT' />
+		<county code='1857' name='YENİPAZAR / BİLECİK' />
+	</city>
+	<city code='12' name='BİNGÖL' >
+		<county code='1750' name='ADAKLI' />
+		<county code='1193' name='BİNGÖL MERKEZ' />
+		<county code='1344' name='GENÇ' />
+		<county code='1446' name='KARLIOVA' />
+		<county code='1475' name='KİĞI' />
+		<county code='1633' name='SOLHAN' />
+		<county code='1855' name='YAYLADERE' />
+		<county code='1996' name='YEDİSU' />
+	</city>
+	<city code='13' name='BİTLİS' >
+		<county code='1106' name='ADİLCEVAZ' />
+		<county code='1112' name='AHLAT' />
+		<county code='1196' name='BİTLİS MERKEZ' />
+		<county code='1798' name='GÜROYMAK' />
+		<county code='1394' name='HİZAN' />
+		<county code='1537' name='MUTKİ' />
+		<county code='1669' name='TATVAN' />
+	</city>
+	<city code='14' name='BOLU' >
+		<county code='1199' name='BOLU MERKEZ' />
+		<county code='1916' name='DÖRTDİVAN' />
+		<county code='1346' name='GEREDE' />
+		<county code='1364' name='GÖYNÜK' />
+		<county code='1466' name='KIBRISCIK' />
+		<county code='1522' name='MENGEN' />
+		<county code='1531' name='MUDURNU' />
+		<county code='1610' name='SEBEN' />
+		<county code='1997' name='YENİÇAĞA' />
+	</city>
+	<city code='15' name='BURDUR' >
+		<county code='1109' name='AĞLASUN' />
+		<county code='1874' name='ALTINYAYLA / BURDUR' />
+		<county code='1211' name='BUCAK' />
+		<county code='1215' name='BURDUR MERKEZ' />
+		<county code='1899' name='ÇAVDIR' />
+		<county code='1903' name='ÇELTİKÇİ' />
+		<county code='1357' name='GÖLHİSAR' />
+		<county code='1813' name='KARAMANLI' />
+		<county code='1816' name='KEMER / BURDUR' />
+		<county code='1672' name='TEFENNİ' />
+		<county code='1728' name='YEŞİLOVA' />
+	</city>
+	<city code='16' name='BURSA' >
+		<county code='1783' name='BÜYÜKORHAN' />
+		<county code='1343' name='GEMLİK' />
+		<county code='1935' name='GÜRSU' />
+		<county code='1799' name='HARMANCIK' />
+		<county code='1411' name='İNEGÖL' />
+		<county code='1420' name='İZNİK' />
+		<county code='1434' name='KARACABEY' />
+		<county code='1457' name='KELES' />
+		<county code='1960' name='KESTEL' />
+		<county code='1530' name='MUDANYA' />
+		<county code='1535' name='MUSTAFAKEMALPAŞA' />
+		<county code='1829' name='NİLÜFER' />
+		<county code='1553' name='ORHANELİ' />
+		<county code='1554' name='ORHANGAZİ' />
+		<county code='1832' name='OSMANGAZİ' />
+		<county code='1725' name='YENİŞEHİR / BURSA' />
+		<county code='1859' name='YILDIRIM' />
+	</city>
+	<city code='17' name='ÇANAKKALE' >
+		<county code='1160' name='AYVACIK / ÇANAKKALE' />
+		<county code='1180' name='BAYRAMİÇ' />
+		<county code='1190' name='BİGA' />
+		<county code='1205' name='BOZCAADA' />
+		<county code='1229' name='ÇAN' />
+		<county code='1230' name='ÇANAKKALE MERKEZ' />
+		<county code='1293' name='ECEABAT' />
+		<county code='1326' name='EZİNE' />
+		<county code='1340' name='GELİBOLU' />
+		<county code='1408' name='GÖKÇEADA' />
+		<county code='1503' name='LAPSEKİ' />
+		<county code='1722' name='YENİCE / ÇANAKKALE' />
+	</city>
+	<city code='18' name='ÇANKIRI' >
+		<county code='1765' name='ATKARACALAR' />
+		<county code='1885' name='BAYRAMÖREN' />
+		<county code='1232' name='ÇANKIRI MERKEZ' />
+		<county code='1248' name='ÇERKEŞ' />
+		<county code='1300' name='ELDİVAN' />
+		<county code='1399' name='ILGAZ' />
+		<county code='1817' name='KIZILIRMAK' />
+		<county code='1963' name='KORGUN' />
+		<county code='1494' name='KURŞUNLU' />
+		<county code='1555' name='ORTA' />
+		<county code='1649' name='ŞABANÖZÜ' />
+		<county code='1718' name='YAPRAKLI' />
+	</city>
+	<city code='19' name='ÇORUM' >
+		<county code='1124' name='ALACA' />
+		<county code='1177' name='BAYAT / ÇORUM' />
+		<county code='1778' name='BOĞAZKALE' />
+		<county code='1259' name='ÇORUM MERKEZ' />
+		<county code='1911' name='DODURGA' />
+		<county code='1414' name='İSKİLİP' />
+		<county code='1445' name='KARGI' />
+		<county code='1972' name='LAÇİN' />
+		<county code='1520' name='MECİTÖZÜ' />
+		<county code='1976' name='OĞUZLAR' />
+		<county code='1556' name='ORTAKÖY / ÇORUM' />
+		<county code='1558' name='OSMANCIK' />
+		<county code='1642' name='SUNGURLU' />
+		<county code='1850' name='UĞURLUDAĞ' />
+	</city>
+	<city code='81' name='DÜZCE' >
+		<county code='1116' name='AKÇAKOCA' />
+		<county code='1905' name='ÇİLİMLİ' />
+		<county code='1784' name='CUMAYERİ' />
+		<county code='1292' name='DÜZCE MERKEZ' />
+		<county code='1794' name='GÖLYAKA' />
+		<county code='2017' name='GÜMÜŞOVA' />
+		<county code='2031' name='KAYNAŞLI' />
+		<county code='1730' name='YIĞILCA' />
+	</city>
+	<city code='20' name='DENİZLİ' >
+		<county code='1102' name='ACIPAYAM' />
+		<county code='1871' name='AKKÖY' />
+		<county code='1769' name='BABADAĞ' />
+		<county code='1881' name='BAKLAN' />
+		<county code='1774' name='BEKİLLİ' />
+		<county code='1888' name='BEYAĞAÇ' />
+		<county code='1889' name='BOZKURT / DENİZLİ' />
+		<county code='1214' name='BULDAN' />
+		<county code='1224' name='ÇAL' />
+		<county code='1226' name='ÇAMELİ' />
+		<county code='1233' name='ÇARDAK' />
+		<county code='1257' name='ÇİVRİL' />
+		<county code='1271' name='DENİZLİ MERKEZ' />
+		<county code='1371' name='GÜNEY' />
+		<county code='1803' name='HONAZ' />
+		<county code='1426' name='KALE / DENİZLİ' />
+		<county code='1597' name='SARAYKÖY' />
+		<county code='1840' name='SERİNHİSAR' />
+		<county code='1670' name='TAVAS' />
+	</city>
+	<city code='21' name='DİYARBAKIR' >
+		<county code='2040' name='BAĞLAR' />
+		<county code='1195' name='BİSMİL' />
+		<county code='1249' name='ÇERMİK' />
+		<county code='1253' name='ÇINAR' />
+		<county code='1263' name='ÇÜNGÜŞ' />
+		<county code='1278' name='DİCLE' />
+		<county code='1284' name='DİYARBAKIR MERKEZ' />
+		<county code='1791' name='EĞİL' />
+		<county code='1315' name='ERGANİ' />
+		<county code='1381' name='HANİ' />
+		<county code='1389' name='HAZRO' />
+		<county code='2041' name='KAYAPINAR' />
+		<county code='1962' name='KOCAKÖY' />
+		<county code='1490' name='KULP' />
+		<county code='1504' name='LİCE' />
+		<county code='1624' name='SİLVAN' />
+		<county code='2042' name='SUR' />
+		<county code='2043' name='YENİŞEHİR / DİYARBAKIR' />
+	</city>
+	<city code='22' name='EDİRNE' >
+		<county code='1295' name='EDİRNE MERKEZ' />
+		<county code='1307' name='ENEZ' />
+		<county code='1385' name='HAVSA' />
+		<county code='1412' name='İPSALA' />
+		<county code='1464' name='KEŞAN' />
+		<county code='1502' name='LALAPAŞA' />
+		<county code='1523' name='MERİÇ' />
+		<county code='1988' name='SÜLOĞLU' />
+		<county code='1705' name='UZUNKÖPRÜ' />
+	</city>
+	<city code='23' name='ELAZIĞ' >
+		<county code='1110' name='AĞIN' />
+		<county code='1873' name='ALACAKAYA' />
+		<county code='1762' name='ARICAK' />
+		<county code='1173' name='BASKİL' />
+		<county code='1298' name='ELAZIĞ MERKEZ' />
+		<county code='1438' name='KARAKOÇAN' />
+		<county code='1455' name='KEBAN' />
+		<county code='1820' name='KOVANCILAR' />
+		<county code='1506' name='MADEN' />
+		<county code='1566' name='PALU' />
+		<county code='1631' name='SİVRİCE' />
+	</city>
+	<city code='24' name='ERZİNCAN' >
+		<county code='1243' name='ÇAYIRLI' />
+		<county code='1318' name='ERZİNCAN MERKEZ' />
+		<county code='1406' name='İLİÇ' />
+		<county code='1459' name='KEMAH' />
+		<county code='1460' name='KEMALİYE' />
+		<county code='1977' name='OTLUKBELİ' />
+		<county code='1583' name='REFAHİYE' />
+		<county code='1675' name='TERCAN' />
+		<county code='1853' name='ÜZÜMLÜ' />
+	</city>
+	<city code='25' name='ERZURUM' >
+		<county code='1153' name='AŞKALE' />
+		<county code='1945' name='AZİZİYE' />
+		<county code='1235' name='ÇAT' />
+		<county code='1319' name='ERZURUM MERKEZ' />
+		<county code='1392' name='HINIS' />
+		<county code='1396' name='HORASAN' />
+		<county code='1416' name='İSPİR' />
+		<county code='1812' name='KARAÇOBAN' />
+		<county code='1444' name='KARAYAZI' />
+		<county code='1967' name='KÖPRÜKÖY' />
+		<county code='1540' name='NARMAN' />
+		<county code='1550' name='OLTU' />
+		<county code='1551' name='OLUR' />
+		<county code='2044' name='PALANDÖKEN' />
+		<county code='1567' name='PASİNLER' />
+		<county code='1865' name='PAZARYOLU' />
+		<county code='1657' name='ŞENKAYA' />
+		<county code='1674' name='TEKMAN' />
+		<county code='1683' name='TORTUM' />
+		<county code='1851' name='UZUNDERE' />
+		<county code='2045' name='YAKUTİYE' />
+	</city>
+	<city code='26' name='ESKİŞEHİR' >
+		<county code='1759' name='ALPU' />
+		<county code='1777' name='BEYLİKOVA' />
+		<county code='1255' name='ÇİFTELER' />
+		<county code='1322' name='ESKİŞEHİR MERKEZ' />
+		<county code='1934' name='GÜNYÜZÜ' />
+		<county code='1939' name='HAN' />
+		<county code='1808' name='İNÖNÜ' />
+		<county code='1508' name='MAHMUDİYE' />
+		<county code='1973' name='MİHALGAZİ' />
+		<county code='1527' name='MİHALIÇÇIK' />
+		<county code='2046' name='ODUNPAZARI' />
+		<county code='1599' name='SARICAKAYA' />
+		<county code='1618' name='SEYİTGAZİ' />
+		<county code='1632' name='SİVRİHİSAR' />
+		<county code='2047' name='TEPEBAŞI' />
+	</city>
+	<city code='29' name='GÜMÜŞHANE' >
+		<county code='1369' name='GÜMÜŞHANE MERKEZ' />
+		<county code='1458' name='KELKİT' />
+		<county code='1822' name='KÖSE' />
+		<county code='1971' name='KÜRTÜN' />
+		<county code='1660' name='ŞİRAN' />
+		<county code='1684' name='TORUL' />
+	</city>
+	<city code='27' name='GAZİANTEP' >
+		<county code='1139' name='ARABAN' />
+		<county code='1415' name='İSLAHİYE' />
+		<county code='1956' name='KARKAMIŞ' />
+		<county code='1546' name='NİZİP' />
+		<county code='1974' name='NURDAĞI' />
+		<county code='1549' name='OĞUZELİ' />
+		<county code='1841' name='ŞAHİNBEY' />
+		<county code='1844' name='ŞEHİTKAMİL' />
+		<county code='1720' name='YAVUZELİ' />
+	</city>
+	<city code='28' name='GİRESUN' >
+		<county code='1133' name='ALUCRA' />
+		<county code='1212' name='BULANCAK' />
+		<county code='1893' name='ÇAMOLUK' />
+		<county code='1894' name='ÇANAKÇI' />
+		<county code='1272' name='DERELİ' />
+		<county code='1912' name='DOĞANKENT' />
+		<county code='1320' name='ESPİYE' />
+		<county code='1324' name='EYNESİL' />
+		<county code='1352' name='GİRESUN MERKEZ' />
+		<county code='1361' name='GÖRELE' />
+		<county code='1930' name='GÜCE' />
+		<county code='1465' name='KEŞAP' />
+		<county code='1837' name='PİRAZİZ' />
+		<county code='1654' name='ŞEBİNKARAHİSAR' />
+		<county code='1678' name='TİREBOLU' />
+		<county code='1854' name='YAĞLIDERE' />
+	</city>
+	<city code='30' name='HAKKARİ' >
+		<county code='1261' name='ÇUKURCA' />
+		<county code='1377' name='HAKKARİ MERKEZ' />
+		<county code='1656' name='ŞEMDİNLİ' />
+		<county code='1737' name='YÜKSEKOVA' />
+	</city>
+	<city code='31' name='HATAY' >
+		<county code='1131' name='ALTINÖZÜ' />
+		<county code='1887' name='BELEN' />
+		<county code='1289' name='DÖRTYOL' />
+		<county code='1792' name='ERZİN' />
+		<county code='1382' name='HASSA' />
+		<county code='1383' name='HATAY MERKEZ' />
+		<county code='1413' name='İSKENDERUN' />
+		<county code='1468' name='KIRIKHAN' />
+		<county code='1970' name='KUMLU' />
+		<county code='1585' name='REYHANLI' />
+		<county code='1591' name='SAMANDAĞ' />
+		<county code='1721' name='YAYLADAĞI' />
+	</city>
+	<city code='76' name='IĞDIR' >
+		<county code='1142' name='ARALIK' />
+		<county code='1398' name='IĞDIR MERKEZ' />
+		<county code='2011' name='KARAKOYUNLU' />
+		<county code='1692' name='TUZLUCA' />
+	</city>
+	<city code='32' name='ISPARTA' >
+		<county code='1755' name='AKSU / ISPARTA' />
+		<county code='1154' name='ATABEY' />
+		<county code='1297' name='EĞİRDİR' />
+		<county code='1341' name='GELENDOST' />
+		<county code='1929' name='GÖNEN / ISPARTA' />
+		<county code='1401' name='ISPARTA MERKEZ' />
+		<county code='1456' name='KEÇİBORLU' />
+		<county code='1651' name='ŞARKİKARAAĞAÇ' />
+		<county code='1615' name='SENİRKENT' />
+		<county code='1648' name='SÜTÇÜLER' />
+		<county code='1699' name='ULUBORLU' />
+		<county code='1717' name='YALVAÇ' />
+		<county code='2001' name='YENİŞARBADEMLİ' />
+	</city>
+	<city code='34' name='İSTANBUL' >
+		<county code='1103' name='ADALAR' />
+		<county code='2048' name='ARNAVUTKÖY' />
+		<county code='2049' name='ATAŞEHİR' />
+		<county code='2003' name='AVCILAR' />
+		<county code='2004' name='BAĞCILAR' />
+		<county code='2005' name='BAHÇELİEVLER' />
+		<county code='1166' name='BAKIRKÖY' />
+		<county code='2050' name='BAŞAKŞEHİR' />
+		<county code='1886' name='BAYRAMPAŞA' />
+		<county code='1183' name='BEŞİKTAŞ' />
+		<county code='1185' name='BEYKOZ' />
+		<county code='2051' name='BEYLİKDÜZÜ' />
+		<county code='1186' name='BEYOĞLU' />
+		<county code='1782' name='BÜYÜKÇEKMECE' />
+		<county code='1237' name='ÇATALCA' />
+		<county code='2052' name='ÇEKMEKÖY' />
+		<county code='1305' name='EMİNÖNÜ' />
+		<county code='2016' name='ESENLER' />
+		<county code='2053' name='ESENYURT' />
+		<county code='1325' name='EYÜP' />
+		<county code='1327' name='FATİH' />
+		<county code='1336' name='GAZİOSMANPAŞA' />
+		<county code='2010' name='GÜNGÖREN' />
+		<county code='1810' name='KAĞITHANE' />
+		<county code='1421' name='KADIKÖY' />
+		<county code='1449' name='KARTAL' />
+		<county code='1823' name='KÜÇÜKÇEKMECE' />
+		<county code='2012' name='MALTEPE' />
+		<county code='1835' name='PENDİK' />
+		<county code='2054' name='SANCAKTEPE' />
+		<county code='1604' name='SARIYER' />
+		<county code='1659' name='ŞİLE' />
+		<county code='1622' name='SİLİVRİ' />
+		<county code='1663' name='ŞİŞLİ' />
+		<county code='2014' name='SULTANBEYLİ' />
+		<county code='2055' name='SULTANGAZİ' />
+		<county code='2015' name='TUZLA' />
+		<county code='1852' name='ÜMRANİYE' />
+		<county code='1708' name='ÜSKÜDAR' />
+		<county code='1739' name='ZEYTİNBURNU' />
+	</city>
+	<city code='35' name='İZMİR' >
+		<county code='1128' name='ALİAĞA' />
+		<county code='2006' name='BALÇOVA' />
+		<county code='1178' name='BAYINDIR' />
+		<county code='2056' name='BAYRAKLI' />
+		<county code='1181' name='BERGAMA' />
+		<county code='1776' name='BEYDAĞ' />
+		<county code='1203' name='BORNOVA' />
+		<county code='1780' name='BUCA' />
+		<county code='1251' name='ÇEŞME' />
+		<county code='2007' name='ÇİĞLİ' />
+		<county code='1280' name='DİKİLİ' />
+		<county code='1334' name='FOÇA' />
+		<county code='2009' name='GAZİEMİR' />
+		<county code='2018' name='GÜZELBAHÇE' />
+		<county code='2057' name='KARABAĞLAR' />
+		<county code='1432' name='KARABURUN' />
+		<county code='1448' name='KARŞIYAKA' />
+		<county code='1461' name='KEMALPAŞA' />
+		<county code='1467' name='KINIK' />
+		<county code='1477' name='KİRAZ' />
+		<county code='1819' name='KONAK' />
+		<county code='1826' name='MENDERES' />
+		<county code='1521' name='MENEMEN' />
+		<county code='2013' name='NARLIDERE' />
+		<county code='1563' name='ÖDEMİŞ' />
+		<county code='1611' name='SEFERİHİSAR' />
+		<county code='1612' name='SELÇUK' />
+		<county code='1677' name='TİRE' />
+		<county code='1682' name='TORBALI' />
+		<county code='1703' name='URLA' />
+	</city>
+	<city code='43' name='KÜTAHYA' >
+		<county code='1132' name='ALTINTAŞ' />
+		<county code='1764' name='ASLANAPA' />
+		<county code='1898' name='ÇAVDARHİSAR' />
+		<county code='1288' name='DOMANİÇ' />
+		<county code='1790' name='DUMLUPINAR' />
+		<county code='1304' name='EMET' />
+		<county code='1339' name='GEDİZ' />
+		<county code='1802' name='HİSARCIK' />
+		<county code='1500' name='KÜTAHYA MERKEZ' />
+		<county code='1979' name='PAZARLAR' />
+		<county code='1843' name='ŞAPHANE' />
+		<county code='1625' name='SİMAV' />
+		<county code='1671' name='TAVŞANLI' />
+	</city>
+	<city code='46' name='KAHRAMANMARAŞ' >
+		<county code='1107' name='AFŞİN' />
+		<county code='1136' name='ANDIRIN' />
+		<county code='1785' name='ÇAĞLIYANCERİT' />
+		<county code='1919' name='EKİNÖZÜ' />
+		<county code='1299' name='ELBİSTAN' />
+		<county code='1353' name='GÖKSUN' />
+		<county code='1515' name='KAHRAMANMARAŞ MERKEZ' />
+		<county code='1975' name='NURHAK' />
+		<county code='1570' name='PAZARCIK' />
+		<county code='1694' name='TÜRKOĞLU' />
+	</city>
+	<city code='78' name='KARABÜK' >
+		<county code='1296' name='EFLANİ' />
+		<county code='1321' name='ESKİPAZAR' />
+		<county code='1433' name='KARABÜK MERKEZ' />
+		<county code='1561' name='OVACIK / KARABÜK' />
+		<county code='1587' name='SAFRANBOLU' />
+		<county code='1856' name='YENİCE / KARABÜK' />
+	</city>
+	<city code='70' name='KARAMAN' >
+		<county code='1768' name='AYRANCI' />
+		<county code='1884' name='BAŞYAYLA' />
+		<county code='1316' name='ERMENEK' />
+		<county code='1439' name='KARAMAN MERKEZ' />
+		<county code='1862' name='KAZIMKARABEKİR' />
+		<county code='1983' name='SARIVELİLER' />
+	</city>
+	<city code='36' name='KARS' >
+		<county code='1756' name='AKYAKA' />
+		<county code='1149' name='ARPAÇAY' />
+		<county code='1279' name='DİGOR' />
+		<county code='1424' name='KAĞIZMAN' />
+		<county code='1447' name='KARS MERKEZ' />
+		<county code='1601' name='SARIKAMIŞ' />
+		<county code='1614' name='SELİM' />
+		<county code='1645' name='SUSUZ' />
+	</city>
+	<city code='37' name='KASTAMONU' >
+		<county code='1867' name='AĞLI' />
+		<county code='1101' name='ABANA' />
+		<county code='1140' name='ARAÇ' />
+		<county code='1162' name='AZDAVAY' />
+		<county code='1208' name='BOZKURT / KASTAMONU' />
+		<county code='1238' name='ÇATALZEYTİN' />
+		<county code='1221' name='CİDE' />
+		<county code='1264' name='DADAY' />
+		<county code='1277' name='DEVREKANİ' />
+		<county code='1915' name='DOĞANYURT' />
+		<county code='1940' name='HANÖNÜ' />
+		<county code='1805' name='İHSANGAZİ' />
+		<county code='1410' name='İNEBOLU' />
+		<county code='1450' name='KASTAMONU MERKEZ' />
+		<county code='1499' name='KÜRE' />
+		<county code='1836' name='PINARBAŞI / KASTAMONU' />
+		<county code='1845' name='ŞENPAZAR' />
+		<county code='1984' name='SEYDİLER' />
+		<county code='1666' name='TAŞKÖPRÜ' />
+		<county code='1685' name='TOSYA' />
+	</city>
+	<city code='38' name='KAYSERİ' >
+		<county code='1752' name='AKKIŞLA' />
+		<county code='1218' name='BÜNYAN' />
+		<county code='1275' name='DEVELİ' />
+		<county code='1330' name='FELAHİYE' />
+		<county code='1936' name='HACILAR' />
+		<county code='1409' name='İNCESU' />
+		<county code='1863' name='KOCASİNAN' />
+		<county code='1864' name='MELİKGAZİ' />
+		<county code='1978' name='ÖZVATAN' />
+		<county code='1576' name='PINARBAŞI / KAYSERİ' />
+		<county code='1603' name='SARIOĞLAN' />
+		<county code='1605' name='SARIZ' />
+		<county code='1846' name='TALAS' />
+		<county code='1680' name='TOMARZA' />
+		<county code='1715' name='YAHYALI' />
+		<county code='1727' name='YEŞİLHİSAR' />
+	</city>
+	<city code='79' name='KİLİS' >
+		<county code='2023' name='ELBEYLİ' />
+		<county code='1476' name='KİLİS MERKEZ' />
+		<county code='2024' name='MUSABEYLİ' />
+		<county code='2025' name='POLATELİ' />
+	</city>
+	<city code='71' name='KIRIKKALE' >
+		<county code='1880' name='BAHŞİLİ' />
+		<county code='1882' name='BALIŞEYH' />
+		<county code='1901' name='ÇELEBİ' />
+		<county code='1268' name='DELİCE' />
+		<county code='1954' name='KARAKEÇİLİ' />
+		<county code='1463' name='KESKİN' />
+		<county code='1469' name='KIRIKKALE MERKEZ' />
+		<county code='1638' name='SULAKYURT' />
+		<county code='1992' name='YAHŞİHAN' />
+	</city>
+	<city code='39' name='KIRKLARELİ' >
+		<county code='1163' name='BABAESKİ' />
+		<county code='1270' name='DEMİRKÖY' />
+		<county code='1471' name='KIRKLARELİ MERKEZ' />
+		<county code='1480' name='KOFÇAZ' />
+		<county code='1505' name='LÜLEBURGAZ' />
+		<county code='1572' name='PEHLİVANKÖY' />
+		<county code='1577' name='PINARHİSAR' />
+		<county code='1714' name='VİZE' />
+	</city>
+	<city code='40' name='KIRŞEHİR' >
+		<county code='1869' name='AKÇAKENT' />
+		<county code='1754' name='AKPINAR' />
+		<county code='1890' name='BOZTEPE' />
+		<county code='1254' name='ÇİÇEKDAĞI' />
+		<county code='1429' name='KAMAN' />
+		<county code='1472' name='KIRŞEHİR MERKEZ' />
+		<county code='1529' name='MUCUR' />
+	</city>
+	<city code='41' name='KOCAELİ' >
+		<county code='2058' name='BAŞİSKELE' />
+		<county code='2059' name='ÇAYIROVA' />
+		<county code='2060' name='DARICA' />
+		<county code='2030' name='DERİNCE' />
+		<county code='2061' name='DİLOVASI' />
+		<county code='1338' name='GEBZE' />
+		<county code='1355' name='GÖLCÜK' />
+		<county code='2062' name='İZMİT' />
+		<county code='1430' name='KANDIRA' />
+		<county code='1440' name='KARAMÜRSEL' />
+		<county code='2063' name='KARTEPE' />
+		<county code='1478' name='KOCAELİ MERKEZ' />
+		<county code='1821' name='KÖRFEZ' />
+	</city>
+	<city code='42' name='KONYA' >
+		<county code='1868' name='AHIRLI' />
+		<county code='1753' name='AKÖREN' />
+		<county code='1122' name='AKŞEHİR' />
+		<county code='1760' name='ALTINEKİN' />
+		<county code='1188' name='BEYŞEHİR' />
+		<county code='1207' name='BOZKIR' />
+		<county code='1902' name='ÇELTİK' />
+		<county code='1222' name='CİHANBEYLİ' />
+		<county code='1262' name='ÇUMRA' />
+		<county code='1907' name='DERBENT' />
+		<county code='1789' name='DEREBUCAK' />
+		<county code='1285' name='DOĞANHİSAR' />
+		<county code='1920' name='EMİRGAZİ' />
+		<county code='1312' name='EREĞLİ / KONYA' />
+		<county code='1933' name='GÜNEYSINIR' />
+		<county code='1375' name='HADİM' />
+		<county code='1937' name='HALKAPINAR' />
+		<county code='1804' name='HÜYÜK' />
+		<county code='1400' name='ILGIN' />
+		<county code='1422' name='KADINHANI' />
+		<county code='1441' name='KARAPINAR' />
+		<county code='1814' name='KARATAY' />
+		<county code='1491' name='KULU' />
+		<county code='1827' name='MERAM' />
+		<county code='1598' name='SARAYÖNÜ' />
+		<county code='1839' name='SELÇUKLU' />
+		<county code='1617' name='SEYDİŞEHİR' />
+		<county code='1848' name='TAŞKENT' />
+		<county code='1990' name='TUZLUKÇU' />
+		<county code='1994' name='YALIHÜYÜK' />
+		<county code='1735' name='YUNAK' />
+	</city>
+	<city code='44' name='MALATYA' >
+		<county code='1114' name='AKÇADAĞ' />
+		<county code='1143' name='ARAPGİR' />
+		<county code='1148' name='ARGUVAN' />
+		<county code='1772' name='BATTALGAZİ' />
+		<county code='1265' name='DARENDE' />
+		<county code='1286' name='DOĞANŞEHİR' />
+		<county code='1914' name='DOĞANYOL' />
+		<county code='1390' name='HEKİMHAN' />
+		<county code='1953' name='KALE / MALATYA' />
+		<county code='1969' name='KULUNCAK' />
+		<county code='1509' name='MALATYA MERKEZ' />
+		<county code='1582' name='PÜTÜRGE' />
+		<county code='1995' name='YAZIHAN' />
+		<county code='1729' name='YEŞİLYURT / MALATYA' />
+	</city>
+	<city code='45' name='MANİSA' >
+		<county code='1751' name='AHMETLİ' />
+		<county code='1118' name='AKHİSAR' />
+		<county code='1127' name='ALAŞEHİR' />
+		<county code='1269' name='DEMİRCİ' />
+		<county code='1793' name='GÖLMARMARA' />
+		<county code='1362' name='GÖRDES' />
+		<county code='1470' name='KIRKAĞAÇ' />
+		<county code='1965' name='KÖPRÜBAŞI / MANİSA' />
+		<county code='1489' name='KULA' />
+		<county code='1513' name='MANİSA MERKEZ' />
+		<county code='1590' name='SALİHLİ' />
+		<county code='1600' name='SARIGÖL' />
+		<county code='1606' name='SARUHANLI' />
+		<county code='1613' name='SELENDİ' />
+		<county code='1634' name='SOMA' />
+		<county code='1689' name='TURGUTLU' />
+	</city>
+	<city code='47' name='MARDİN' >
+		<county code='1787' name='DARGEÇİT' />
+		<county code='1273' name='DERİK' />
+		<county code='1474' name='KIZILTEPE' />
+		<county code='1516' name='MARDİN MERKEZ' />
+		<county code='1519' name='MAZIDAĞI' />
+		<county code='1526' name='MİDYAT' />
+		<county code='1547' name='NUSAYBİN' />
+		<county code='1564' name='ÖMERLİ' />
+		<county code='1609' name='SAVUR' />
+		<county code='2002' name='YEŞİLLİ' />
+	</city>
+	<city code='33' name='MERSİN' >
+		<county code='2064' name='AKDENİZ' />
+		<county code='1135' name='ANAMUR' />
+		<county code='1766' name='AYDINCIK / MERSİN' />
+		<county code='1779' name='BOZYAZI' />
+		<county code='1892' name='ÇAMLIYAYLA' />
+		<county code='1311' name='ERDEMLİ' />
+		<county code='1366' name='GÜLNAR' />
+		<county code='1402' name='MERSİN MERKEZ' />
+		<county code='2065' name='MEZİTLİ' />
+		<county code='1536' name='MUT' />
+		<county code='1621' name='SİLİFKE' />
+		<county code='1665' name='TARSUS' />
+		<county code='2066' name='TOROSLAR' />
+		<county code='2067' name='YENİŞEHİR / MERSİN' />
+	</city>
+	<city code='48' name='MUĞLA' >
+		<county code='1197' name='BODRUM' />
+		<county code='1742' name='DALAMAN' />
+		<county code='1266' name='DATÇA' />
+		<county code='1331' name='FETHİYE' />
+		<county code='1958' name='KAVAKLIDERE' />
+		<county code='1488' name='KÖYCEĞİZ' />
+		<county code='1517' name='MARMARİS' />
+		<county code='1528' name='MİLAS' />
+		<county code='1532' name='MUĞLA MERKEZ' />
+		<county code='1831' name='ORTACA' />
+		<county code='1695' name='ULA' />
+		<county code='1719' name='YATAĞAN' />
+	</city>
+	<city code='49' name='MUŞ' >
+		<county code='1213' name='BULANIK' />
+		<county code='1801' name='HASKÖY' />
+		<county code='1964' name='KORKUT' />
+		<county code='1510' name='MALAZGİRT' />
+		<county code='1534' name='MUŞ MERKEZ' />
+		<county code='1711' name='VARTO' />
+	</city>
+	<city code='50' name='NEVŞEHİR' >
+		<county code='1749' name='ACIGÖL' />
+		<county code='1155' name='AVANOS' />
+		<county code='1274' name='DERİNKUYU' />
+		<county code='1367' name='GÜLŞEHİR' />
+		<county code='1374' name='HACIBEKTAŞ' />
+		<county code='1485' name='KOZAKLI' />
+		<county code='1543' name='NEVŞEHİR MERKEZ' />
+		<county code='1707' name='ÜRGÜP' />
+	</city>
+	<city code='51' name='NİĞDE' >
+		<county code='1876' name='ALTUNHİSAR' />
+		<county code='1201' name='BOR' />
+		<county code='1225' name='ÇAMARDI' />
+		<county code='1904' name='ÇİFTLİK' />
+		<county code='1544' name='NİĞDE MERKEZ' />
+		<county code='1700' name='ULUKIŞLA' />
+	</city>
+	<city code='52' name='ORDU' >
+		<county code='1119' name='AKKUŞ' />
+		<county code='1158' name='AYBASTI' />
+		<county code='1891' name='ÇAMAŞ' />
+		<county code='1897' name='ÇATALPINAR' />
+		<county code='1900' name='ÇAYBAŞI' />
+		<county code='1328' name='FATSA' />
+		<county code='1358' name='GÖLKÖY' />
+		<county code='1795' name='GÜLYALI' />
+		<county code='1797' name='GÜRGENTEPE' />
+		<county code='1947' name='İKİZCE' />
+		<county code='1950' name='KABADÜZ' />
+		<county code='1951' name='KABATAŞ' />
+		<county code='1482' name='KORGAN' />
+		<county code='1493' name='KUMRU' />
+		<county code='1525' name='MESUDİYE' />
+		<county code='1552' name='ORDU MERKEZ' />
+		<county code='1573' name='PERŞEMBE' />
+		<county code='1696' name='ULUBEY / ORDU' />
+		<county code='1706' name='ÜNYE' />
+	</city>
+	<city code='80' name='OSMANİYE' >
+		<county code='1165' name='BAHÇE' />
+		<county code='1743' name='DÜZİÇİ' />
+		<county code='2027' name='HASANBEYLİ' />
+		<county code='1423' name='KADİRLİ' />
+		<county code='1560' name='OSMANİYE MERKEZ' />
+		<county code='2028' name='SUMBAS' />
+		<county code='2029' name='TOPRAKKALE' />
+	</city>
+	<city code='53' name='RİZE' >
+		<county code='1146' name='ARDEŞEN' />
+		<county code='1228' name='ÇAMLIHEMŞİN' />
+		<county code='1241' name='ÇAYELİ' />
+		<county code='1908' name='DEREPAZARI' />
+		<county code='1332' name='FINDIKLI' />
+		<county code='1796' name='GÜNEYSU' />
+		<county code='1943' name='HEMŞİN' />
+		<county code='1405' name='İKİZDERE' />
+		<county code='1949' name='İYİDERE' />
+		<county code='1428' name='KALKANDERE' />
+		<county code='1569' name='PAZAR / RİZE' />
+		<county code='1586' name='RİZE MERKEZ' />
+	</city>
+	<city code='54' name='SAKARYA' >
+		<county code='2068' name='ADAPAZARI' />
+		<county code='1123' name='AKYAZI' />
+		<county code='2069' name='ARİFİYE' />
+		<county code='2070' name='ERENLER' />
+		<county code='1925' name='FERİZLİ' />
+		<county code='1351' name='GEYVE' />
+		<county code='1391' name='HENDEK' />
+		<county code='1955' name='KARAPÜRÇEK' />
+		<county code='1442' name='KARASU' />
+		<county code='1453' name='KAYNARCA' />
+		<county code='1818' name='KOCAALİ' />
+		<county code='1833' name='PAMUKOVA' />
+		<county code='1589' name='SAKARYA MERKEZ' />
+		<county code='1595' name='SAPANCA' />
+		<county code='2071' name='SERDİVAN' />
+		<county code='1986' name='SÖĞÜTLÜ' />
+		<county code='1847' name='TARAKLI' />
+	</city>
+	<city code='55' name='SAMSUN' >
+		<county code='1125' name='ALAÇAM' />
+		<county code='1763' name='ASARCIK' />
+		<county code='2072' name='ATAKUM' />
+		<county code='1879' name='AYVACIK / SAMSUN' />
+		<county code='1164' name='BAFRA' />
+		<county code='2073' name='CANİK' />
+		<county code='1234' name='ÇARŞAMBA' />
+		<county code='1386' name='HAVZA' />
+		<county code='2074' name='İLKADIM' />
+		<county code='1452' name='KAVAK' />
+		<county code='1501' name='LADİK' />
+		<county code='1830' name='ONDOKUZMAYIS' />
+		<county code='1838' name='SALIPAZARI' />
+		<county code='1593' name='SAMSUN MERKEZ' />
+		<county code='1849' name='TEKKEKÖY' />
+		<county code='1676' name='TERME' />
+		<county code='1712' name='VEZİRKÖPRÜ' />
+		<county code='1993' name='YAKAKENT' />
+	</city>
+	<city code='63' name='ŞANLIURFA' >
+		<county code='1115' name='AKÇAKALE' />
+		<county code='1194' name='BİRECİK' />
+		<county code='1209' name='BOZOVA' />
+		<county code='1220' name='CEYLANPINAR' />
+		<county code='1378' name='HALFETİ' />
+		<county code='1800' name='HARRAN' />
+		<county code='1393' name='HİLVAN' />
+		<county code='1702' name='ŞANLIURFA MERKEZ' />
+		<county code='1630' name='SİVEREK' />
+		<county code='1643' name='SURUÇ' />
+		<county code='1713' name='VİRANŞEHİR' />
+	</city>
+	<city code='56' name='SİİRT' >
+		<county code='1878' name='AYDINLAR' />
+		<county code='1179' name='BAYKAN' />
+		<county code='1317' name='ERUH' />
+		<county code='1495' name='KURTALAN' />
+		<county code='1575' name='PERVARİ' />
+		<county code='1620' name='SİİRT MERKEZ' />
+		<county code='1662' name='ŞİRVAN' />
+	</city>
+	<city code='57' name='SİNOP' >
+		<county code='1156' name='AYANCIK' />
+		<county code='1204' name='BOYABAT' />
+		<county code='1910' name='DİKMEN' />
+		<county code='1290' name='DURAĞAN' />
+		<county code='1314' name='ERFELEK' />
+		<county code='1349' name='GERZE' />
+		<county code='1981' name='SARAYDÜZÜ' />
+		<county code='1627' name='SİNOP MERKEZ' />
+		<county code='1693' name='TÜRKELİ' />
+	</city>
+	<city code='73' name='ŞIRNAK' >
+		<county code='1189' name='BEYTÜŞŞEBAP' />
+		<county code='1223' name='CİZRE' />
+		<county code='1931' name='GÜÇLÜKONAK' />
+		<county code='1403' name='İDİL' />
+		<county code='1623' name='SİLOPİ' />
+		<county code='1661' name='ŞIRNAK MERKEZ' />
+		<county code='1698' name='ULUDERE' />
+	</city>
+	<city code='58' name='SİVAS' >
+		<county code='1870' name='AKINCILAR' />
+		<county code='1875' name='ALTINYAYLA / SİVAS' />
+		<county code='1282' name='DİVRİĞİ' />
+		<county code='1913' name='DOĞANŞAR' />
+		<county code='1342' name='GEMEREK' />
+		<county code='1927' name='GÖLOVA' />
+		<county code='1373' name='GÜRÜN' />
+		<county code='1376' name='HAFİK' />
+		<county code='1407' name='İMRANLI' />
+		<county code='1431' name='KANGAL' />
+		<county code='1484' name='KOYULHİSAR' />
+		<county code='1650' name='ŞARKIŞLA' />
+		<county code='1628' name='SİVAS MERKEZ' />
+		<county code='1646' name='SUŞEHRİ' />
+		<county code='1991' name='ULAŞ' />
+		<county code='1731' name='YILDIZELİ' />
+		<county code='1738' name='ZARA' />
+	</city>
+	<city code='59' name='TEKİRDAĞ' >
+		<county code='1250' name='ÇERKEZKÖY' />
+		<county code='1258' name='ÇORLU' />
+		<county code='1388' name='HAYRABOLU' />
+		<county code='1511' name='MALKARA' />
+		<county code='1825' name='MARMARAEREĞLİSİ' />
+		<county code='1538' name='MURATLI' />
+		<county code='1596' name='SARAY / TEKİRDAĞ' />
+		<county code='1652' name='ŞARKÖY' />
+		<county code='1673' name='TEKİRDAĞ MERKEZ' />
+	</city>
+	<city code='60' name='TOKAT' >
+		<county code='1129' name='ALMUS' />
+		<county code='1151' name='ARTOVA' />
+		<county code='1883' name='BAŞÇİFTLİK' />
+		<county code='1308' name='ERBAA' />
+		<county code='1545' name='NİKSAR' />
+		<county code='1834' name='PAZAR / TOKAT' />
+		<county code='1584' name='REŞADİYE' />
+		<county code='1987' name='SULUSARAY' />
+		<county code='1679' name='TOKAT MERKEZ' />
+		<county code='1690' name='TURHAL' />
+		<county code='1858' name='YEŞİLYURT / TOKAT' />
+		<county code='1740' name='ZİLE' />
+	</city>
+	<city code='61' name='TRABZON' >
+		<county code='1113' name='AKÇAABAT' />
+		<county code='1141' name='ARAKLI' />
+		<county code='1150' name='ARSİN' />
+		<county code='1775' name='BEŞİKDÜZÜ' />
+		<county code='1896' name='ÇARŞIBAŞI' />
+		<county code='1244' name='ÇAYKARA' />
+		<county code='1909' name='DERNEKPAZARI' />
+		<county code='1917' name='DÜZKÖY' />
+		<county code='1942' name='HAYRAT' />
+		<county code='1966' name='KÖPRÜBAŞI / TRABZON' />
+		<county code='1507' name='MAÇKA' />
+		<county code='1548' name='OF' />
+		<county code='1842' name='ŞALPAZARI' />
+		<county code='1647' name='SÜRMENE' />
+		<county code='1681' name='TONYA' />
+		<county code='1686' name='TRABZON MERKEZ' />
+		<county code='1709' name='VAKFIKEBİR' />
+		<county code='1732' name='YOMRA' />
+	</city>
+	<city code='62' name='TUNCELİ' >
+		<county code='1247' name='ÇEMİŞGEZEK' />
+		<county code='1397' name='HOZAT' />
+		<county code='1518' name='MAZGİRT' />
+		<county code='1541' name='NAZIMİYE' />
+		<county code='1562' name='OVACIK / TUNCELİ' />
+		<county code='1574' name='PERTEK' />
+		<county code='1581' name='PÜLÜMÜR' />
+		<county code='1688' name='TUNCELİ MERKEZ' />
+	</city>
+	<city code='64' name='UŞAK' >
+		<county code='1170' name='BANAZ' />
+		<county code='1323' name='EŞME' />
+		<county code='1436' name='KARAHALLI' />
+		<county code='1629' name='SİVASLI' />
+		<county code='1697' name='ULUBEY / UŞAK' />
+		<county code='1704' name='UŞAK MERKEZ' />
+	</city>
+	<city code='65' name='VAN' >
+		<county code='1770' name='BAHÇESARAY' />
+		<county code='1175' name='BAŞKALE' />
+		<county code='1786' name='ÇALDIRAN' />
+		<county code='1236' name='ÇATAK' />
+		<county code='1918' name='EDREMİT / VAN' />
+		<county code='1309' name='ERCİŞ' />
+		<county code='1350' name='GEVAŞ' />
+		<county code='1372' name='GÜRPINAR' />
+		<county code='1533' name='MURADİYE' />
+		<county code='1565' name='ÖZALP' />
+		<county code='1980' name='SARAY / VAN' />
+		<county code='1710' name='VAN MERKEZ' />
+	</city>
+	<city code='77' name='YALOVA' >
+		<county code='2019' name='ALTINOVA' />
+		<county code='2020' name='ARMUTLU' />
+		<county code='2022' name='ÇİFTLİKKÖY' />
+		<county code='2021' name='ÇINARCIK' />
+		<county code='2026' name='TERMAL' />
+		<county code='1716' name='YALOVA MERKEZ' />
+	</city>
+	<city code='66' name='YOZGAT' >
+		<county code='1117' name='AKDAĞMADENİ' />
+		<county code='1877' name='AYDINCIK / YOZGAT' />
+		<county code='1198' name='BOĞAZLIYAN' />
+		<county code='1895' name='ÇANDIR' />
+		<county code='1242' name='ÇAYIRALAN' />
+		<county code='1245' name='ÇEKEREK' />
+		<county code='1952' name='KADIŞEHRİ' />
+		<county code='1982' name='SARAYKENT' />
+		<county code='1602' name='SARIKAYA' />
+		<county code='1655' name='ŞEFAATLİ' />
+		<county code='1635' name='SORGUN' />
+		<county code='1998' name='YENİFAKILI' />
+		<county code='1726' name='YERKÖY' />
+		<county code='1733' name='YOZGAT MERKEZ' />
+	</city>
+	<city code='67' name='ZONGULDAK' >
+		<county code='1758' name='ALAPLI' />
+		<county code='1240' name='ÇAYCUMA' />
+		<county code='1276' name='DEVREK' />
+		<county code='1313' name='EREĞLİ / ZONGULDAK' />
+		<county code='1926' name='GÖKÇEBEY' />
+		<county code='1741' name='ZONGULDAK MERKEZ' />
+	</city>
+</root>

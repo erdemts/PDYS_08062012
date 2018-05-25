@@ -1,0 +1,20 @@
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Common\bin\Debug\Common.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Common\bin\Debug\Common.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Common\obj\Debug\Common.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\CoreLibs\Common\obj\Debug\Common.pdb
+D:\PDYS\CoreLibs\Common\bin\Debug\Common.dll
+D:\PDYS\CoreLibs\Common\bin\Debug\Common.pdb
+D:\PDYS\CoreLibs\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\CoreLibs\Common\obj\Debug\Common.dll
+D:\PDYS\CoreLibs\Common\obj\Debug\Common.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Common\bin\Debug\Common.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Common\bin\Debug\Common.pdb
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Common\obj\Debug\Common.dll
+C:\Users\KENAN\Desktop\PDYS\CoreLibs\Common\obj\Debug\Common.pdb
+D:\PDYS\PDYS\CoreLibs\Common\bin\Debug\Common.dll
+D:\PDYS\PDYS\CoreLibs\Common\bin\Debug\Common.pdb
+D:\PDYS\PDYS\CoreLibs\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\CoreLibs\Common\obj\Debug\Common.dll
+D:\PDYS\PDYS\CoreLibs\Common\obj\Debug\Common.pdb

@@ -1,0 +1,341 @@
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\App.g.cs
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\PDYS.Properties.Resources.resources
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Mvvm.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Mvvm.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Mvvm.Validation.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Mvvm.Validation.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Common.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Common.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\Mvvm.Messenger.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.g.cs
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlack.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlue.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionDark.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionLight.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Themes\ShinyBlue.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Themes\ShinyRed.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Themes\WhistlerBlue.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\App.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\WPFToolkit.dll
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\WPFToolkit.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\MenuView.g.cs
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\MenuView.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\PDYS.exe
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\bin\Debug\PDYS.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.cache
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.lref
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\PDYS.g.resources
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\PDYS.exe
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\PDYS.pdb
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\HeaderView.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\HeaderView.g.cs
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\MainWindow.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.baml
+C:\Users\KENAN\Documents\Visual Studio 2010\Projects\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\PDYS.exe
+D:\PDYS\PDYS\obj\x86\Debug\PDYS.pdb
+D:\PDYS\PDYS\bin\Debug\PDYS.exe
+D:\PDYS\PDYS\bin\Debug\PDYS.pdb
+D:\PDYS\PDYS\bin\Debug\Common.dll
+D:\PDYS\PDYS\bin\Debug\Mvvm.dll
+D:\PDYS\PDYS\bin\Debug\Mvvm.Messenger.dll
+D:\PDYS\PDYS\bin\Debug\Mvvm.Validation.dll
+D:\PDYS\PDYS\bin\Debug\Common.pdb
+D:\PDYS\PDYS\bin\Debug\Mvvm.Messenger.pdb
+D:\PDYS\PDYS\bin\Debug\Mvvm.Validation.pdb
+D:\PDYS\PDYS\bin\Debug\Mvvm.pdb
+D:\PDYS\PDYS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlack.baml
+D:\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlue.baml
+D:\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionDark.baml
+D:\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionLight.baml
+D:\PDYS\PDYS\obj\x86\Debug\Themes\ShinyBlue.baml
+D:\PDYS\PDYS\obj\x86\Debug\Themes\ShinyRed.baml
+D:\PDYS\PDYS\obj\x86\Debug\Themes\WhistlerBlue.baml
+D:\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.baml
+D:\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.baml
+D:\PDYS\PDYS\obj\x86\Debug\Views\HeaderView.baml
+D:\PDYS\PDYS\obj\x86\Debug\MainWindow.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\Views\HeaderView.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\Views\MenuView.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\App.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.cache
+D:\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.lref
+D:\PDYS\PDYS\obj\x86\Debug\App.baml
+D:\PDYS\PDYS\obj\x86\Debug\MainWindow.baml
+D:\PDYS\PDYS\obj\x86\Debug\Views\MenuView.baml
+D:\PDYS\PDYS\obj\x86\Debug\PDYS.g.resources
+D:\PDYS\PDYS\obj\x86\Debug\PDYS.Properties.Resources.resources
+D:\PDYS\PDYS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PDYS\PDYS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PDYS\PDYS\obj\x86\Debug\Views\EmployeeListView.baml
+D:\PDYS\PDYS\obj\x86\Debug\Views\EmployeeListView.g.cs
+D:\PDYS\PDYS\bin\Debug\PDYS.exe.config
+D:\PDYS\PDYS\obj\x86\Debug\EditWindow.baml
+D:\PDYS\PDYS\obj\x86\Debug\EditWindow.g.cs
+D:\PDYS\PDYS\bin\Debug\System.Windows.Interactivity.dll
+D:\PDYS\PDYS\bin\Debug\System.Windows.Interactivity.xml
+D:\PDYS\PDYS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\PDYS\PDYS\obj\x86\Debug\Test.baml
+D:\PDYS\PDYS\obj\x86\Debug\Test.g.cs
+D:\PDYS\PDYS\obj\x86\Debug\Themes\ApplicationStyle.baml
+D:\PDYS\PDYS\bin\Debug\CityCounty.xml
+D:\PDYS\PDYS\bin\Debug\EntityFramework.dll
+D:\PDYS\PDYS\bin\Debug\System.Data.SqlServerCe.dll
+D:\PDYS\PDYS\bin\Debug\EntityFramework.xml
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\PDYS.exe.config
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PDYS.exe
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PDYS.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\CityCounty.xml
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\PDYS.exe
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\PDYS.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Common.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\EntityFramework.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Mvvm.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Mvvm.Messenger.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Mvvm.Validation.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\WPFToolkit.dll
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Common.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Mvvm.Messenger.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Mvvm.Validation.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\Mvvm.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\EntityFramework.xml
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\KENAN\Desktop\PDYS\PDYS\bin\Debug\WPFToolkit.pdb
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\ApplicationStyle.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlack.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlue.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionDark.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionLight.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\ShinyBlue.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\ShinyRed.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Themes\WhistlerBlue.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\EmployeeListView.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\MenuView.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\App.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.cache
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.lref
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\App.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\MainWindow.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\EmployeeListView.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\MenuView.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PDYS.g.resources
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PDYS.Properties.Resources.resources
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PopupWindow.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\PopupWindow.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\HeaderControl.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\LookupControl.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\HeaderControl.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\LookupControl.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\PagerControl.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\PagerControl.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\ListButtonControl.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\UserControls\ListButtonControl.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\DepartmentListView.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\DepartmentListView.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\LookupWindow.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\LookupWindow.baml
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\DepartmentLookupView.g.cs
+C:\Users\KENAN\Desktop\PDYS\PDYS\obj\x86\Debug\Views\DepartmentLookupView.baml
+D:\PDYS\PDYS\PDYS\bin\Debug\CityCounty.xml
+D:\PDYS\PDYS\PDYS\bin\Debug\PDYS.exe.config
+D:\PDYS\PDYS\PDYS\bin\Debug\PDYS.exe
+D:\PDYS\PDYS\PDYS\bin\Debug\PDYS.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\Common.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\EntityFramework.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\Mvvm.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\Mvvm.Messenger.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\Mvvm.Validation.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\System.Data.SqlServerCe.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\System.Windows.Interactivity.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\Common.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\Mvvm.Messenger.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\Mvvm.Validation.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\Mvvm.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\EntityFramework.xml
+D:\PDYS\PDYS\PDYS\bin\Debug\System.Windows.Interactivity.xml
+D:\PDYS\PDYS\PDYS\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\WPFToolkit.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\WPFToolkit.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\DeviceManagement.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\ZKDeviceLibrary.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\Interop.zkemkeeper.dll
+D:\PDYS\PDYS\PDYS\bin\Debug\DeviceManagement.pdb
+D:\PDYS\PDYS\PDYS\bin\Debug\ZKDeviceLibrary.pdb
+D:\PDYS\PDYS\Ouput\CityCounty.xml
+D:\PDYS\PDYS\Ouput\PDYS.exe.config
+D:\PDYS\PDYS\Ouput\PDYS.exe.manifest
+D:\PDYS\PDYS\Ouput\PDYS.application
+D:\PDYS\PDYS\Ouput\PDYS.exe
+D:\PDYS\PDYS\Ouput\PDYS.pdb
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlack.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\BureauBlue.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionDark.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\ExpressionLight.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\ShinyBlue.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\ShinyRed.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\WhistlerBlue.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\Block.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\EntityList.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\ReportPreview.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserLoginView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\ReaderDeviceSelectionView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\HeaderControl.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\LookupControl.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\WorkingTimeView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\LoadingWindow.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\LookupWindow.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PopupWindow.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\MainWindow.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\Block.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\EntityList.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\LoadingAnimation.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\ReportPreview.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\AccountingProcessTypeView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\AccountingProcessTypeListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\SelectInOutScoringView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserLoginView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\SelectSalaryScoringDateView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeSalaryScoringView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeSalaryScoringListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInOutScoringListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInOutScoringView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\ReaderDeviceListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\ReaderDeviceSelectionView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\ReaderDeviceView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeAccountingListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeAccountingView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInputOutputListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInputOutputView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OvertimeAssignmentListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OvertimeMassAssignmentView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OvertimeAssignmentView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OutSourceOvertimeListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OutSourceOvertimeView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\WeeklyOvertimeView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\WeeklyOvertimeListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\TransportListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\TransportView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\PublicHolidayListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\PublicHolidayView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeHolidayListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeHolidayView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\DepartmentListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\HeaderControl.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\LookupControl.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\MenuView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\WorkingTimeView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\App.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.cache
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS_MarkupCompile.lref
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\App.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\LoadingWindow.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\LookupWindow.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PopupWindow.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\MainWindow.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\ApplicationStyle.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Themes\Copy of ApplicationStyle.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\UserControls\LoadingAnimation.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\AccountingProcessTypeView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\AccountingProcessTypeListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\SelectInOutScoringView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\SelectSalaryScoringDateView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeSalaryScoringView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeSalaryScoringListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInOutScoringListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInOutScoringView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\ReaderDeviceListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\ReaderDeviceView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeAccountingListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeAccountingView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInputOutputListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeInputOutputView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OvertimeAssignmentListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OvertimeMassAssignmentView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OvertimeAssignmentView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OutSourceOvertimeListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\OutSourceOvertimeView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\WeeklyOvertimeView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\WeeklyOvertimeListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\TransportListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\TransportView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\PublicHolidayListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\PublicHolidayView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeHolidayListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeHolidayView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\DepartmentListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\DepartmentView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\EmployeeView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\MenuView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.g.resources
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.exe.licenses
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.exe.manifest
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.application
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.exe
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.pdb
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserControl1.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\UserControl1.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptEmployeeInOutScoringView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptEmployeeListView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptInputOutputView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptEmployeeInOutScoringView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptEmployeeListView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptInputOutputView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.Report.Design.RptEmployeeInOutScoring.resources
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.Report.Design.RptEmployeeList.resources
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.Report.Design.RptInputOutput.resources
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\BaseWindowView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\BaseWindowView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\LogView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\LogView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\LicenceView.baml
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Views\LicenceView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\PDYS.Report.Design.RptEmployeeSalaryScoring.resources
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptEmployeeSalaryScoringView.g.cs
+D:\PDYS\PDYS\PDYS\obj\x86\Debug\Report\Views\RptEmployeeSalaryScoringView.baml
